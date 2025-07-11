@@ -34,7 +34,7 @@
     </header>
     <main class="pt-[60px] pb-[0px]">
     <!-- Hero -->
-    <section class="relative w-full min-h-[800px] flex items-center justify-center bg-blue-900 border-b py-0" style="background: url('https://images.unsplash.com/photo-1681939278218-a755fb2bf2d3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') center/cover no-repeat;">
+    <section class="relative w-full min-h-[800px] flex items-center justify-center bg-blue-900 border-b py-0" style="background: url('https://images.unsplash.com/photo-1681939278218-a755fb2bf2d3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') center/cover no-repeat; background-attachment: fixed;">
         <div class="absolute inset-0 bg-blue-900/70"></div>
         <div class="relative z-10 max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-10 px-4 py-40 w-full">
             <div class="flex-1">
