@@ -115,7 +115,7 @@
     <section id="sobre" class="bg-gray-50 border-b py-12">
         <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-10 px-4">
             <div class="flex-1">
-                <img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?q=80&w=1468&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Atendimento odontológico domiciliar" class="rounded-xl shadow-md w-full max-w-xs object-cover border border-gray-200">
+                <img src="https://images.unsplash.com/photo-1609207825181-52d3214556dd?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Atendimento odontológico domiciliar" class="rounded-xl shadow-md w-full max-w-lg object-cover border border-gray-200">
             </div>
             <div class="flex-1 text-center md:text-left">
                 <h2 class="text-2xl font-bold mb-4 text-blue-900">Sobre o atendimento</h2>
