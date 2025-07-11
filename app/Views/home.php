@@ -6,7 +6,9 @@
     <title>Odontologia Domiciliar em São Paulo</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
-    <style>body { font-family: 'Montserrat', sans-serif; }</style>
+    <style>body { font-family: 'Montserrat', sans-serif; }
+    html { scroll-behavior: smooth; }
+    </style>
 </head>
 <body class="bg-gray-100 text-gray-900">
     <!-- Header -->
@@ -197,4 +199,22 @@
         <div class="mt-8 text-xs text-blue-100 text-center">&copy; <?php echo date('Y'); ?> OdontoDomiciliar. Todos os direitos reservados.</div>
     </footer>
 </body>
+<script>
+// Scroll suave com ajuste para header fixo
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function(e) {
+    const targetId = this.getAttribute('href');
+    if (targetId.length > 1 && document.querySelector(targetId)) {
+      e.preventDefault();
+      const headerOffset = 70; // altura do header fixo
+      const elementPosition = document.querySelector(targetId).getBoundingClientRect().top;
+      const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: "smooth"
+      });
+    }
+  });
+});
+</script>
 </html>
