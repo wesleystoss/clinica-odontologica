@@ -3,7 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Odontologia Domiciliar em São Paulo</title>
+    <title>Odontologia Domiciliar em São Paulo | Atendimento em Casa | OdontoDomiciliar</title>
+    <meta name="description" content="Odontologia domiciliar em São Paulo. Atendimento odontológico no conforto da sua casa, com agendamento fácil pelo WhatsApp. Equipe experiente, tecnologia portátil e foco em pacientes com mobilidade reduzida.">
+    <meta name="keywords" content="odontologia domiciliar, dentista em casa, atendimento odontológico, São Paulo, prótese, ortodontia, odontopediatria, implante, endodontia, clínica odontológica, agendamento WhatsApp">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="OdontoDomiciliar">
+    <meta property="og:title" content="Odontologia Domiciliar em São Paulo | OdontoDomiciliar">
+    <meta property="og:description" content="Atendimento odontológico domiciliar em São Paulo. Agende pelo WhatsApp e receba cuidados profissionais no conforto do seu lar.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://SEU-LINK-DEMO.com.br/">
+    <meta property="og:image" content="https://images.unsplash.com/photo-1681939278218-a755fb2bf2d3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+    <link rel="icon" type="image/png" href="https://img.icons8.com/ios-filled/50/4F46E5/tooth.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
     <style>body { font-family: 'Montserrat', sans-serif; }
@@ -15,7 +25,7 @@
     <header class="bg-white shadow-sm w-full fixed top-0 left-0 z-20">
         <div class="max-w-6xl mx-auto flex items-center justify-between px-4 py-3">
             <div class="flex items-center gap-2">
-                <img src="https://img.icons8.com/ios-filled/50/4F46E5/tooth.png" alt="Logo" class="w-8 h-8">
+                <img src="https://img.icons8.com/ios-filled/50/4F46E5/tooth.png" alt="Logo OdontoDomiciliar" class="w-8 h-8">
                 <span class="font-bold text-xl text-blue-800">OdontoDomiciliar</span>
             </div>
             <nav class="hidden md:flex gap-8 text-blue-900 font-semibold">
@@ -105,7 +115,7 @@
     <section id="sobre" class="bg-gray-50 border-b py-12">
         <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-10 px-4">
             <div class="flex-1">
-                <img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?q=80&w=1468&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Equipe Odontológica" class="rounded-xl shadow-md w-full max-w-xs object-cover border border-gray-200">
+                <img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?q=80&w=1468&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Consultório odontológico domiciliar" class="rounded-xl shadow-md w-full max-w-xs object-cover border border-gray-200">
             </div>
             <div class="flex-1 text-center md:text-left">
                 <h2 class="text-2xl font-bold mb-4 text-blue-900">Sobre nossa clínica</h2>
