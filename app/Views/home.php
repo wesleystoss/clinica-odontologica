@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Odontologia Domiciliar em São Paulo | Atendimento em Casa | OdontoDomiciliar</title>
-    <meta name="description" content="Odontologia domiciliar em São Paulo. Atendimento odontológico no conforto da sua casa, com agendamento fácil pelo WhatsApp. Equipe experiente, tecnologia portátil e foco em pacientes com mobilidade reduzida.">
+    <title>Odontologia Domiciliar em São Paulo | Atendimento 100% Domiciliar | OdontoDomiciliar</title>
+    <meta name="description" content="Odontologia domiciliar em São Paulo. Atendimento odontológico 100% no domicílio, com agendamento fácil pelo WhatsApp. Equipe experiente, tecnologia portátil e foco em pacientes com mobilidade reduzida. Organização hospitalar apenas se necessário.">
     <meta name="keywords" content="odontologia domiciliar, dentista em casa, atendimento odontológico, São Paulo, prótese, ortodontia, odontopediatria, implante, endodontia, clínica odontológica, agendamento WhatsApp">
     <meta name="robots" content="index, follow">
     <meta name="author" content="OdontoDomiciliar">
     <meta property="og:title" content="Odontologia Domiciliar em São Paulo | OdontoDomiciliar">
-    <meta property="og:description" content="Atendimento odontológico domiciliar em São Paulo. Agende pelo WhatsApp e receba cuidados profissionais no conforto do seu lar.">
+    <meta property="og:description" content="Atendimento odontológico 100% domiciliar em São Paulo. Agende pelo WhatsApp e receba cuidados profissionais no conforto do seu lar. Organização hospitalar apenas se necessário.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://SEU-LINK-DEMO.com.br/">
     <meta property="og:image" content="https://images.unsplash.com/photo-1681939278218-a755fb2bf2d3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
@@ -115,13 +115,14 @@
     <section id="sobre" class="bg-gray-50 border-b py-12">
         <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-10 px-4">
             <div class="flex-1">
-                <img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?q=80&w=1468&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Consultório odontológico domiciliar" class="rounded-xl shadow-md w-full max-w-xs object-cover border border-gray-200">
+                <img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?q=80&w=1468&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Atendimento odontológico domiciliar" class="rounded-xl shadow-md w-full max-w-xs object-cover border border-gray-200">
             </div>
             <div class="flex-1 text-center md:text-left">
-                <h2 class="text-2xl font-bold mb-4 text-blue-900">Sobre nossa clínica</h2>
+                <h2 class="text-2xl font-bold mb-4 text-blue-900">Sobre o atendimento</h2>
                 <p class="mb-6 text-gray-700 text-lg">
-                    Somos especialistas em <span class="font-semibold text-blue-800">odontologia domiciliar</span>, levando cuidado, tecnologia e acolhimento até você. Nossa equipe é formada por profissionais experientes, preparados para atender pacientes de todas as idades no conforto do seu lar.<br><br>
-                    Utilizamos equipamentos portáteis modernos, garantindo segurança, higiene e qualidade em todos os procedimentos. O atendimento domiciliar é ideal para idosos, pessoas com mobilidade reduzida, pacientes acamados ou para quem busca comodidade e privacidade.<br><br>
+                    O atendimento é <span class="font-semibold text-blue-800">100% domiciliar</span>: todos os procedimentos são realizados na casa do paciente, com conforto, privacidade e segurança. Não possuímos clínica física, levando toda a estrutura necessária até você.<br><br>
+                    Nossa equipe é formada por profissionais experientes, preparados para atender pessoas de todas as idades, especialmente idosos, pacientes com mobilidade reduzida ou acamados, e famílias que buscam comodidade.<br><br>
+                    Utilizamos equipamentos portáteis modernos, garantindo higiene e qualidade em todos os procedimentos. Caso algum tratamento exija ambiente hospitalar, organizamos o encaminhamento de forma segura e responsável, sempre priorizando o atendimento domiciliar.<br><br>
                     Nosso compromisso é proporcionar uma experiência humanizada, respeitando as necessidades de cada paciente e facilitando o acesso à saúde bucal sem sair de casa.
                 </p>
                 <a href="#contato" class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-8 rounded-full shadow transition text-lg">Fale conosco</a>
@@ -155,7 +156,7 @@
     <section id="contato" class="bg-white py-12">
         <div class="max-w-6xl mx-auto text-center px-4">
             <h2 class="text-2xl font-bold text-blue-900 mb-6">Contato</h2>
-            <p class="mb-6 text-gray-700 text-lg">Entre em contato para agendar seu atendimento domiciliar ou tirar dúvidas.</p>
+            <p class="mb-6 text-gray-700 text-lg">Entre em contato para agendar seu atendimento odontológico domiciliar ou tirar dúvidas. Não possuímos clínica física, todo o atendimento é realizado no domicílio do paciente.</p>
             <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="inline-block bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-full shadow transition text-lg">Agendar pelo WhatsApp</a>
             <div class="mt-4 flex flex-col items-center gap-2">
                 <span class="text-blue-900 font-semibold text-lg">Ou ligue: <a href="tel:+5511999999999" class="underline hover:text-blue-700">(11) 99999-9999</a></span>
@@ -163,7 +164,7 @@
             <div class="mt-8 flex flex-col md:flex-row justify-center gap-12">
                 <div class="flex flex-col items-center">
                     <span class="mb-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-blue-700"><path stroke-linecap="round" stroke-linejoin="round" d="M15.75 9V5.25A2.25 2.25 0 0013.5 3h-3A2.25 2.25 0 008.25 5.25V9m7.5 0V5.25A2.25 2.25 0 0013.5 3h-3A2.25 2.25 0 008.25 5.25V9m7.5 0a2.25 2.25 0 012.25 2.25v7.5A2.25 2.25 0 0115.75 21h-7.5A2.25 2.25 0 016 18.75v-7.5A2.25 2.25 0 018.25 9m7.5 0h-7.5" /></svg></span>
-                    <span>Rua Exemplo, 123 - São Paulo/SP</span>
+                    <span>Atendimento em toda São Paulo e região metropolitana</span>
                 </div>
             </div>
         </div>
@@ -176,7 +177,7 @@
                     <img src="https://img.icons8.com/ios-filled/32/ffffff/tooth.png" alt="Logo" class="w-7 h-7">
                     <span class="font-bold text-lg text-white">OdontoDomiciliar</span>
                 </div>
-                <p class="text-blue-100 text-sm mb-2">Atendimento odontológico domiciliar em São Paulo e região.</p>
+                <p class="text-blue-100 text-sm mb-2">Atendimento odontológico 100% domiciliar em São Paulo e região. Não possuímos clínica física.</p>
                 <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-full shadow text-sm mt-2">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12c0 5.385 4.365 9.75 9.75 9.75 1.7 0 3.3-.425 4.7-1.175l3.3.825a.75.75 0 00.925-.925l-.825-3.3A9.708 9.708 0 0021.75 12c0-5.385-4.365-9.75-9.75-9.75S2.25 6.615 2.25 12z" />
@@ -199,7 +200,7 @@
             </div>
             <div>
                 <span class="font-semibold text-white">Endereço</span>
-                <p class="text-blue-100 text-sm mt-2">Rua Exemplo, 123<br>São Paulo/SP</p>
+                <p class="text-blue-100 text-sm mt-2">Atendimento em toda São Paulo e região metropolitana</p>
             </div>
             <div>
                 <span class="font-semibold text-white">Atendimento</span>
