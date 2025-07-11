@@ -49,7 +49,7 @@
         <div class="relative z-10 max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-10 px-4 py-40 w-full">
             <div class="flex-1">
                 <h1 class="text-4xl md:text-5xl font-extrabold text-white mb-4 drop-shadow">Odontologia domiciliar em São Paulo</h1>
-                <p class="text-lg text-blue-100 mb-6 drop-shadow">Atendimento odontológico no conforto da sua casa. Todos os procedimentos realizados via domicílio, exceto os que exigem ambiente hospitalar.</p>
+                <p class="text-lg text-blue-100 mb-6 drop-shadow">Atendimento odontológico no conforto da sua casa. Todos os procedimentos são realizados no domicílio do paciente e, caso haja necessidade de ambiente hospitalar, nós mesmos organizamos e acompanhamos todo o processo para você.</p>
                 <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="inline-block bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-full shadow transition text-lg">Agende pelo WhatsApp</a>
                 <p class="mt-4 text-sm text-blue-100">Atendimento em São Paulo e região metropolitana</p>
             </div>
@@ -156,7 +156,7 @@
     <section id="contato" class="bg-white py-12">
         <div class="max-w-6xl mx-auto text-center px-4">
             <h2 class="text-2xl font-bold text-blue-900 mb-6">Contato</h2>
-            <p class="mb-6 text-gray-700 text-lg">Entre em contato para agendar seu atendimento odontológico domiciliar ou tirar dúvidas. Não possuímos clínica física, todo o atendimento é realizado no domicílio do paciente.</p>
+            <p class="mb-6 text-gray-700 text-lg">Entre em contato para agendar seu atendimento odontológico domiciliar ou tirar dúvidas. Todo o atendimento é realizado no domicílio do paciente e, se necessário, organizamos e acompanhamos procedimentos em ambiente hospitalar.</p>
             <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="inline-block bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-full shadow transition text-lg">Agendar pelo WhatsApp</a>
             <div class="mt-4 flex flex-col items-center gap-2">
                 <span class="text-blue-900 font-semibold text-lg">Ou ligue: <a href="tel:+5511999999999" class="underline hover:text-blue-700">(11) 99999-9999</a></span>
