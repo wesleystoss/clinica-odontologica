@@ -187,29 +187,54 @@
         <p class="hero-trust">+500 atendimentos realizados</p>
       </div>
     </section>
+    <!-- Frase de efeito -->
+    <section class="bg-white py-8">
+      <div class="max-w-3xl mx-auto px-4">
+        <p class="text-center text-2xl font-semibold text-[#1976A5] leading-snug">Sorria com conforto, cuide da sua saúde sem sair de casa.</p>
+      </div>
+    </section>
+    <!-- Destaque de acessibilidade -->
+    <section class="bg-[#E6F7FB] py-6">
+      <div class="max-w-4xl mx-auto flex flex-col md:flex-row items-center gap-4 px-4">
+        <div class="flex-shrink-0 flex items-center justify-center w-14 h-14 rounded-full bg-[#1976A5]">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4a8 8 0 1 0 0 16 8 8 0 0 0 0-16zm0 2a6 6 0 1 1 0 12A6 6 0 0 1 12 6zm-2 5a1 1 0 1 0 0 2 1 1 0 0 0 0-2zm4 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2zm-2 3c-1.1 0-2 .9-2 2h8c0-1.1-.9-2-2-2H12z" />
+          </svg>
+        </div>
+        <p class="text-[#1A3A4F] text-lg font-semibold text-center md:text-left">
+          Aqui, cada sorriso importa. Atendemos pessoas idosas, com deficiência, mobilidade reduzida, comorbidades ou qualquer necessidade especial, sempre com respeito, empatia e acolhimento.<br>
+          <span class="font-normal">Odontologia para todos, no conforto do seu lar.</span>
+        </p>
+      </div>
+    </section>
     <!-- Especialidades -->
     <section id="especialidades" class="py-16 bg-white">
-        <div class="max-w-6xl mx-auto px-4">
-            <h2 class="text-2xl font-bold modelo-title text-center mb-8">Especialidades</h2>
-            <div class="grid grid-cols-2 md:grid-cols-4 gap-8 justify-items-center">
-                <div class="modelo-card flex flex-col items-center">
-                    <img src="https://img.icons8.com/ios/50/1976A5/tooth.png" class="modelo-icon"/>
-                    <span class="text-[#1A3A4F] text-base font-semibold">Dentística</span>
-                </div>
-                <div class="modelo-card flex flex-col items-center">
-                    <img src="https://img.icons8.com/ios/50/1976A5/dental-braces.png" class="modelo-icon"/>
-                    <span class="text-[#1A3A4F] text-base font-semibold">Ortodontia</span>
-                </div>
-                <div class="modelo-card flex flex-col items-center">
-                    <img src="https://img.icons8.com/ios/50/1976A5/baby-bottle.png" class="modelo-icon"/>
-                    <span class="text-[#1A3A4F] text-base font-semibold">Odontopediatria</span>
-                </div>
-                <div class="modelo-card flex flex-col items-center">
-                    <img src="https://img.icons8.com/ios/50/1976A5/dental-implant.png" class="modelo-icon"/>
-                    <span class="text-[#1A3A4F] text-base font-semibold">Implantodontia</span>
-                </div>
-            </div>
+      <div class="max-w-6xl mx-auto px-4">
+        <h2 class="text-2xl font-bold modelo-title text-center mb-3">Especialidades</h2>
+        <p class="text-center text-[#5A6A7A] text-lg mb-10">Conheça as principais áreas de atendimento odontológico domiciliar oferecidas por nossa equipe especializada.</p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10 justify-items-center">
+          <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center transition-transform hover:-translate-y-1 hover:shadow-xl" style="min-width:220px;">
+            <img src="https://img.icons8.com/ios/80/1976A5/tooth.png" class="w-16 h-16 mb-4"/>
+            <span class="text-[#1976A5] text-lg font-bold mb-2">Dentística</span>
+            <p class="text-[#5A6A7A] text-sm">Restaurações estéticas, clareamento e cuidados com a saúde do sorriso.</p>
+          </div>
+          <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center transition-transform hover:-translate-y-1 hover:shadow-xl" style="min-width:220px;">
+            <img src="https://img.icons8.com/ios/80/1976A5/dental-braces.png" class="w-16 h-16 mb-4"/>
+            <span class="text-[#1976A5] text-lg font-bold mb-2">Ortodontia</span>
+            <p class="text-[#5A6A7A] text-sm">Aparelhos ortodônticos, manutenção e alinhamento dos dentes em casa.</p>
+          </div>
+          <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center transition-transform hover:-translate-y-1 hover:shadow-xl" style="min-width:220px;">
+            <img src="https://img.icons8.com/ios/80/1976A5/baby-bottle.png" class="w-16 h-16 mb-4"/>
+            <span class="text-[#1976A5] text-lg font-bold mb-2">Odontopediatria</span>
+            <p class="text-[#5A6A7A] text-sm">Cuidado odontológico especializado para crianças, com conforto e carinho.</p>
+          </div>
+          <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center transition-transform hover:-translate-y-1 hover:shadow-xl" style="min-width:220px;">
+            <img src="https://img.icons8.com/ios/80/1976A5/dental-implant.png" class="w-16 h-16 mb-4"/>
+            <span class="text-[#1976A5] text-lg font-bold mb-2">Implantodontia</span>
+            <p class="text-[#5A6A7A] text-sm">Implantes dentários e reabilitação oral com tecnologia portátil.</p>
+          </div>
         </div>
+      </div>
     </section>
     <!-- FAQ -->
     <section id="faq" class="py-16 bg-[#E6F7FB]">
@@ -304,10 +329,17 @@
         <div class="max-w-6xl mx-auto text-center px-4">
             <h2 class="text-2xl font-bold modelo-title mb-6">Contato</h2>
             <p class="mb-6 text-[#5A6A7A] text-lg">Entre em contato para agendar seu atendimento odontológico domiciliar ou tirar dúvidas. Todo o atendimento é realizado no domicílio do paciente e, se necessário, organizamos e acompanhamos procedimentos em ambiente hospitalar.</p>
-            <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="modelo-btn-green">Agendar pelo WhatsApp</a>
+            <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="modelo-btn-green mb-4 inline-flex items-center gap-2">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12c0 5.385 4.365 9.75 9.75 9.75 1.7 0 3.3-.425 4.7-1.175l3.3.825a.75.75 0 00.925-.925l-.825-3.3A9.708 9.708 0 0021.75 12c0-5.385-4.365-9.75-9.75-9.75S2.25 6.615 2.25 12z" /></svg>
+              Agendar pelo WhatsApp
+            </a>
             <div class="mt-4 flex flex-col items-center gap-2">
-                <span class="text-[#1A3A4F] font-semibold text-lg">Ou ligue: <a href="tel:+5511999999999" class="underline" style="color:#1976A5">(11) 99999-9999</a></span>
-            </div>
+              <span class="text-[#1A3A4F] font-semibold text-lg">Ou se preferir, ligue para:</span>
+              <a href="tel:+5511999999999" class="inline-flex items-center gap-2 bg-[#1976A5] hover:bg-[#14577c] text-white font-bold py-3 px-8 rounded-full shadow transition text-lg mt-2" style="font-size:1.15rem;">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0-1.243 1.007-2.25 2.25-2.25h2.086c.414 0 .81.168 1.103.466l2.027 2.034a2.25 2.25 0 01.434 2.466l-.637 1.591a.75.75 0 00.217.83l2.457 2.457a.75.75 0 00.83.217l1.591-.637a2.25 2.25 0 012.466.434l2.034 2.027c.298.293.466.689.466 1.103v2.086a2.25 2.25 0 01-2.25 2.25h-.75C7.798 21 3 16.202 3 10.75v-.75z" /></svg>
+              (11) 99999-9999
+            </a>
+          </div>
         </div>
     </section>
     <!-- Footer -->
