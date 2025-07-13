@@ -273,6 +273,32 @@
             </div>
         </div>
     </section>
+    <!-- Avaliações dos Clientes -->
+    <section class="py-16 bg-[#E6F7FB]">
+      <div class="max-w-5xl mx-auto px-4">
+        <h2 class="text-2xl font-bold modelo-title text-center mb-10">Avaliações dos Clientes</h2>
+        <div class="grid md:grid-cols-3 gap-8">
+          <div class="bg-white rounded-xl shadow p-6 flex flex-col items-center text-center">
+            <img src="https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=facearea&w=128&q=80&facepad=2" class="w-20 h-20 rounded-full mb-4 object-cover" alt="Cliente 1">
+            <div class="flex mb-2 text-[#FFD700] text-lg">⭐⭐⭐⭐⭐</div>
+            <p class="font-semibold text-[#1A3A4F] mb-1">Maria Oliveira</p>
+            <p class="text-[#5A6A7A] text-sm">“Atendimento excelente, muito atenciosos e profissionais. Recomendo para todos!”</p>
+          </div>
+          <div class="bg-white rounded-xl shadow p-6 flex flex-col items-center text-center">
+            <img src="https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=facearea&w=128&q=80&facepad=2" class="w-20 h-20 rounded-full mb-4 object-cover" alt="Cliente 2">
+            <div class="flex mb-2 text-[#FFD700] text-lg">⭐⭐⭐⭐⭐</div>
+            <p class="font-semibold text-[#1A3A4F] mb-1">João Santos</p>
+            <p class="text-[#5A6A7A] text-sm">“Muito prático fazer o tratamento em casa. Equipe super preparada!”</p>
+          </div>
+          <div class="bg-white rounded-xl shadow p-6 flex flex-col items-center text-center">
+            <img src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=facearea&w=128&q=80&facepad=2" class="w-20 h-20 rounded-full mb-4 object-cover" alt="Cliente 3">
+            <div class="flex mb-2 text-[#FFD700] text-lg">⭐⭐⭐⭐⭐</div>
+            <p class="font-semibold text-[#1A3A4F] mb-1">Ana Paula Lima</p>
+            <p class="text-[#5A6A7A] text-sm">“Fiquei muito satisfeita com o atendimento domiciliar. Recomendo!”</p>
+          </div>
+        </div>
+      </div>
+    </section>
     <!-- Contato -->
     <section id="contato" class="bg-white py-16">
         <div class="max-w-6xl mx-auto text-center px-4">
