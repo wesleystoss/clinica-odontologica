@@ -82,6 +82,38 @@
         justify-content: flex-start;
         position: relative;
       }
+      @media (max-width: 600px) {
+        .hero-bg,
+        #hero-carousel {
+          min-height: 50vh !important;
+          height: 50vh !important;
+        }
+        #hero-carousel {
+          position: relative !important;
+        }
+        #hero-carousel > .absolute.left-0.right-0.bottom-\[80px\] {
+          display: block !important;
+          position: relative !important;
+          left: auto !important;
+          right: auto !important;
+          bottom: auto !important;
+          top: auto !important;
+          z-index: 1 !important;
+          width: 100% !important;
+          margin: 1rem auto 0 auto !important;
+          padding: 0 !important;
+          background: #fff !important;
+        }
+        #hero-carousel > .absolute.left-0.right-0.bottom-\[80px\] > div {
+          background: #fff !important;
+          color: #1976A5 !important;
+          border-radius: 18px !important;
+          box-shadow: 0 2px 12px 0 rgba(25,118,165,0.10) !important;
+          max-width: 95vw !important;
+          margin: 0 auto !important;
+          padding: 1.2rem 0.5rem !important;
+        }
+      }
       .hero-content {
         position: relative;
         z-index: 2;
@@ -178,16 +210,25 @@
     </header>
     <main class="pt-[60px] pb-0">
     <!-- Hero: O que fazemos -->
-    <section class="relative border-b" style="min-height: 100vh;">
+    <section class="relative border-b">
       <div id="hero-carousel" class="relative w-full h-[100vh] overflow-hidden">
         <img src="/img/carrousel/11.png" alt="Dentista em casa realizando atendimento odontológico domiciliar em São Paulo para paciente especial" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-100 transition-opacity duration-700" />
         <img src="/img/carrousel/12.png" alt="Odontologia domiciliar: atendimento odontológico especializado em casa em São Paulo" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-700" />
-        <div class="absolute left-0 right-0 bottom-[80px] flex justify-center z-10 p-4">
+        <!-- Balão original, só desktop/tablet -->
+        <div class="hidden sm:flex sm:absolute sm:left-0 sm:right-0 sm:bottom-[80px] justify-center z-10 p-4">
           <div class="bg-white/85 rounded-xl px-6 py-4 text-center max-w-lg shadow-lg">
             <h1 class="text-2xl md:text-3xl font-bold text-[#1976A5] mb-2">Odontologia Domiciliar Humanizada em São Paulo</h1>
             <p class="text-gray-700 text-base md:text-lg mb-3">Cuidamos de pessoas e sorrisos, onde você estiver.</p>
             <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="hero-btn mt-1">Agende seu atendimento</a>
           </div>
+        </div>
+      </div>
+      <!-- Balão mobile, fora do carrossel -->
+      <div class="flex sm:hidden w-full justify-center p-4">
+        <div class="bg-white/85 rounded-xl px-4 py-3 text-center w-full max-w-lg shadow-lg">
+          <h1 class="text-xl font-bold text-[#1976A5] mb-2">Odontologia Domiciliar Humanizada em São Paulo</h1>
+          <p class="text-gray-700 text-base mb-3">Cuidamos de pessoas e sorrisos, onde você estiver.</p>
+          <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="hero-btn mt-1">Agende seu atendimento</a>
         </div>
       </div>
       <script>
@@ -218,7 +259,7 @@
     <!-- Como fazemos -->
     <section class="bg-white py-12">
       <div class="max-w-4xl mx-auto px-4 text-center">
-        <h2 class="text-2xl font-bold modelo-title mb-4">Como a Clínica Sorriso em Casa cuida de você</h2>
+        <h2 class="text-2xl font-bold modelo-title mb-4">Como cuidamos de você</h2>
         <p class="text-[#1A3A4F] text-lg mb-6">Atendemos idosos, pessoas com deficiência, acamados e pacientes oncológicos, levando tecnologia, carinho e respeito até onde você está. Utilizamos equipamentos portáteis, equipe experiente e protocolos seguros para garantir conforto e tranquilidade em cada etapa.</p>
       </div>
       <div class="max-w-5xl mx-auto px-4">
@@ -290,7 +331,7 @@
     <!-- FAQ SEO -->
     <section class="bg-[#E6F7FB] py-10">
       <div class="max-w-3xl mx-auto px-4">
-        <h2 class="text-2xl font-bold modelo-title mb-6">Perguntas frequentes sobre dentista em casa e odontologia domiciliar</h2>
+        <h2 class="text-2xl font-bold modelo-title mb-6">Perguntas frequentes</h2>
         <div class="modelo-faq-box">
           <h3 class="font-semibold mb-2">Como funciona o atendimento de dentista em casa?</h3>
           <p>O atendimento odontológico domiciliar é realizado por dentistas especializados que levam todos os equipamentos necessários até a casa do paciente, proporcionando conforto, segurança e praticidade para quem tem dificuldade de locomoção ou prefere ser atendido no lar.</p>
