@@ -13,6 +13,15 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://SEU-LINK-DEMO.com.br/">
     <meta property="og:image" content="https://images.unsplash.com/photo-1681939278218-a755fb2bf2d3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+    <link rel="canonical" href="https://SEU-LINK-DEMO.com.br/">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:site_name" content="OdontoDomiciliar">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Odontologia Domiciliar em São Paulo | OdontoDomiciliar">
+    <meta name="twitter:description" content="Atendimento odontológico 100% domiciliar em São Paulo. Agende pelo WhatsApp e receba cuidados profissionais no conforto do seu lar.">
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1681939278218-a755fb2bf2d3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+    <meta name="twitter:site" content="@SeuPerfilTwitter">
+    <meta name="twitter:creator" content="@SeuPerfilTwitter">
     <link rel="icon" type="image/png" href="https://img.icons8.com/ios-filled/50/4F46E5/tooth.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
