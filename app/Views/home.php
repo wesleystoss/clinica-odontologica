@@ -11,13 +11,13 @@
     <meta property="og:title" content="Clínica Sorriso em Casa | Odontologia Domiciliar em São Paulo">
     <meta property="og:description" content="Atendimento odontológico domiciliar humanizado em São Paulo. Equipe experiente, tecnologia portátil e foco em pacientes com necessidades especiais. Agende sua consulta!"><meta property="og:type" content="website">
     <meta property="og:url" content="https://sorrisoemcasa.com.br/">
-    <meta property="og:image" content="/img/carrousel/11.png">
+    <meta property="og:image" content="https://odonto.wesleystoss.com.br/img/carrousel/11.png">
     <meta property="og:locale" content="pt_BR">
     <meta property="og:site_name" content="Clínica Sorriso em Casa">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Clínica Sorriso em Casa | Odontologia Domiciliar em São Paulo">
     <meta name="twitter:description" content="Atendimento odontológico domiciliar humanizado em São Paulo. Equipe experiente, tecnologia portátil e foco em pacientes com necessidades especiais. Agende sua consulta!">
-    <meta name="twitter:image" content="/img/carrousel/11.png">
+    <meta name="twitter:image" content="https://odonto.wesleystoss.com.br/img/carrousel/11.png">
     <meta name="twitter:site" content="@sorrisoemcasa">
     <meta name="twitter:creator" content="@sorrisoemcasa">
     <link rel="icon" type="image/png" href="https://img.icons8.com/ios-filled/50/4F46E5/tooth.png">
