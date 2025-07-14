@@ -177,14 +177,6 @@
         </div>
     </header>
     <main class="pt-[60px] pb-0">
-    <!-- Parágrafo SEO -->
-    <section class="bg-white py-6">
-      <div class="max-w-3xl mx-auto px-4 text-center">
-        <p class="text-lg text-[#1A3A4F] font-semibold mb-4">
-          A <strong>Clínica Odontológica Sorriso em Casa</strong> oferece <strong>atendimento odontológico domiciliar</strong> em São Paulo, levando o cuidado de um <strong>dentista em casa</strong> para idosos, pessoas com necessidades especiais e toda a família. Nossa equipe é especializada em <strong>odontologia</strong> humanizada, com tecnologia portátil e foco em conforto, segurança e saúde bucal. Agende sua consulta e descubra como é fácil cuidar do seu sorriso sem sair de casa!
-        </p>
-      </div>
-    </section>
     <!-- Hero: O que fazemos -->
     <section class="relative border-b" style="min-height: 100vh;">
       <div id="hero-carousel" class="relative w-full h-[100vh] overflow-hidden">
@@ -635,5 +627,37 @@ document.addEventListener('click', (e) => {
     aberto = false;
   }
 });
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dentist",
+  "name": "Clínica Odontológica Sorriso em Casa",
+  "image": "https://odonto.wesleystoss.com.br/img/carrousel/11.png",
+  "@id": "https://odonto.wesleystoss.com.br/",
+  "url": "https://odonto.wesleystoss.com.br/",
+  "telephone": "+55 11 99999-9999",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rua Exemplo, 123",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "01234-567",
+    "addressCountry": "BR"
+  },
+  "description": "Dentista em casa em São Paulo. Atendimento odontológico domiciliar, clínica odontológica especializada, odontologia para idosos, pessoas com necessidades especiais e toda a família.",
+  "areaServed": "São Paulo, SP, Brasil",
+  "openingHours": "Mo-Sa 08:00-20:00",
+  "priceRange": "R$",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -23.55052,
+    "longitude": -46.633308
+  },
+  "sameAs": [
+    "https://www.facebook.com/",
+    "https://www.instagram.com/"
+  ]
+}
 </script>
 </html>
