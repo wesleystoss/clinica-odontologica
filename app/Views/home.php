@@ -332,7 +332,7 @@
     <!-- FAQ SEO -->
     <section class="bg-[#E6F7FB] py-10">
       <div class="max-w-3xl mx-auto px-4">
-        <h2 class="text-2xl font-bold modelo-title mb-6">Perguntas frequentes</h2>
+        <h2 class="text-2xl font-bold modelo-title mb-6 text-center">Perguntas frequentes</h2>
         <div class="modelo-faq-box">
           <h3 class="font-semibold mb-2">Como funciona o atendimento de dentista em casa?</h3>
           <p>O atendimento domiciliar é ideal para quem valoriza comodidade, segurança e acolhimento, seja por limitações de mobilidade, condições de saúde ou preferência pelo atendimento no lar.</p>
