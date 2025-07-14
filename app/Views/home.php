@@ -171,21 +171,42 @@
     </header>
     <main class="pt-[60px] pb-0">
     <!-- Hero: O que fazemos -->
-    <section class="hero-bg border-b">
-      <div class="hero-content">
-        <h1 class="hero-title">
-          Cuidamos de sorrisos e pessoas<br>
-          <span class="hero-highlight">Odontologia Humanizada onde você está</span>
-        </h1>
-        <p class="hero-subtitle">
-          Nossa missão é garantir saúde, dignidade e conforto para quem mais precisa, levando atendimento odontológico especializado até o domicílio ou hospital.
-        </p>
-        <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="hero-btn">
-          <svg viewBox="0 0 32 32"><path d="M16 3C9.373 3 4 8.373 4 15c0 2.637.86 5.13 2.49 7.23L4.06 28.44a1 1 0 0 0 1.25 1.25l6.21-2.43A11.96 11.96 0 0 0 16 27c6.627 0 12-5.373 12-12S22.627 3 16 3zm0 22c-1.77 0-3.5-.36-5.09-1.07a1 1 0 0 0-.82-.03l-4.36 1.71 1.71-4.36a1 1 0 0 0-.03-.82A9.96 9.96 0 0 1 6 15c0-5.514 4.486-10 10-10s10 4.486 10 10-4.486 10-10 10zm5.29-7.71-2.29-.66a1 1 0 0 0-.95.21l-1.27 1.04a7.97 7.97 0 0 1-3.79-3.79l1.04-1.27a1 1 0 0 0 .21-.95l-.66-2.29A1 1 0 0 0 13 8h-2A2 2 0 0 0 9 10c0 4.962 4.038 9 9 9a2 2 0 0 0 2-2v-2a1 1 0 0 0-.71-.96z"/></svg>
-          Agende seu atendimento
-        </a>
-        <p class="hero-trust">Cuidar é nossa vocação. Atendimento humanizado, seguro e acessível.</p>
+    <section class="relative border-b" style="min-height: 100vh;">
+      <div id="hero-carousel" class="relative w-full h-[100vh] overflow-hidden">
+        <img src="/img/carrousel/11.png" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-100 transition-opacity duration-700" />
+        <img src="/img/carrousel/12.png" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-700" />
+        <div class="absolute left-0 right-0 bottom-[80px] flex justify-center z-10 p-4">
+          <div class="bg-white/85 rounded-xl px-6 py-4 text-center max-w-lg shadow-lg">
+            <h1 class="text-2xl md:text-3xl font-bold text-[#1976A5] mb-2">Odontologia Humanizada</h1>
+            <p class="text-gray-700 text-base md:text-lg mb-3">Cuidamos de pessoas e sorrisos, onde você estiver.</p>
+            <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="hero-btn mt-1">Agende seu atendimento</a>
+          </div>
+        </div>
       </div>
+      <script>
+        const slides = document.querySelectorAll('.hero-slide');
+        let currentSlide = 0;
+        let interval = null;
+        function showSlide(idx) {
+          slides.forEach((slide, i) => {
+            slide.style.opacity = i === idx ? '1' : '0';
+          });
+          currentSlide = idx;
+        }
+        function nextSlide() {
+          showSlide((currentSlide + 1) % slides.length);
+        }
+        function startCarousel() {
+          interval = setInterval(nextSlide, 5000);
+        }
+        function stopCarousel() {
+          clearInterval(interval);
+        }
+        showSlide(0);
+        startCarousel();
+        document.getElementById('hero-carousel').addEventListener('mouseenter', stopCarousel);
+        document.getElementById('hero-carousel').addEventListener('mouseleave', startCarousel);
+      </script>
     </section>
     <!-- Como fazemos -->
     <section class="bg-white py-12">
