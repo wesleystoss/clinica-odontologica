@@ -260,7 +260,7 @@
     <section class="bg-white py-12">
       <div class="max-w-4xl mx-auto px-4 text-center">
         <h2 class="text-2xl font-bold modelo-title mb-4">Como cuidamos de você</h2>
-        <p class="text-[#1A3A4F] text-lg mb-6">Atendemos idosos, pessoas com deficiência, acamados e pacientes oncológicos, levando tecnologia, carinho e respeito até onde você está. Utilizamos equipamentos portáteis, equipe experiente e protocolos seguros para garantir conforto e tranquilidade em cada etapa.</p>
+        <p class="text-[#1A3A4F] text-lg mb-6">Levamos atendimento odontológico humanizado até você, com tecnologia, carinho e respeito. Nossa equipe experiente utiliza equipamentos portáteis e protocolos seguros para garantir conforto e tranquilidade em cada etapa, especialmente para quem necessita de cuidados diferenciados no lar.</p>
       </div>
       <div class="max-w-5xl mx-auto px-4">
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -294,7 +294,7 @@
           </svg>
         </div>
         <p class="text-[#1A3A4F] text-lg font-semibold text-center md:text-left">
-          Aqui, cada sorriso importa. Atendemos pessoas idosas, com deficiência, mobilidade reduzida, comorbidades ou qualquer necessidade especial, sempre com respeito, empatia e acolhimento.<br>
+          Aqui, cada sorriso importa. Oferecemos atendimento acessível e acolhedor para quem busca comodidade, segurança e respeito, independentemente de suas necessidades ou limitações.<br>
           <span class="font-normal">Odontologia para todos, no conforto do seu lar.</span>
         </p>
       </div>
@@ -334,7 +334,7 @@
         <h2 class="text-2xl font-bold modelo-title mb-6">Perguntas frequentes</h2>
         <div class="modelo-faq-box">
           <h3 class="font-semibold mb-2">Como funciona o atendimento de dentista em casa?</h3>
-          <p>O atendimento odontológico domiciliar é realizado por dentistas especializados que levam todos os equipamentos necessários até a casa do paciente, proporcionando conforto, segurança e praticidade para quem tem dificuldade de locomoção ou prefere ser atendido no lar.</p>
+          <p>O atendimento domiciliar é ideal para quem valoriza comodidade, segurança e acolhimento, seja por limitações de mobilidade, condições de saúde ou preferência pelo atendimento no lar.</p>
         </div>
         <div class="modelo-faq-box">
           <h3 class="font-semibold mb-2">Quais especialidades odontológicas são oferecidas em domicílio?</h3>
@@ -351,7 +351,7 @@
       <div class="max-w-5xl mx-auto px-4 flex flex-col md:flex-row gap-10 items-center">
         <div class="flex-1">
           <h2 class="text-2xl font-bold modelo-title mb-3">Sobre a Clínica</h2>
-          <p class="text-[#1A3A4F] text-lg mb-4">Localizada em São Paulo, nossa clínica é especializada no atendimento de pessoas com deficiência, idosos, acamados e pacientes oncológicos. Oferecemos todo o suporte necessário para realizar procedimentos cirúrgicos e não cirúrgicos no domicílio, sempre com respeito, empatia e acolhimento.</p>
+          <p class="text-[#1A3A4F] text-lg mb-4">Localizada em São Paulo, nossa clínica é referência em atendimento odontológico domiciliar, proporcionando suporte completo para quem precisa de cuidados especiais no conforto do lar. Realizamos procedimentos cirúrgicos e não cirúrgicos com respeito, empatia e acolhimento.</p>
           <ul class="mb-2 space-y-2">
             <li class="flex items-center gap-2 text-[#1976A5] text-base"><svg class="w-5 h-5 text-green-500 inline" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>Atendimento humanizado</li>
             <li class="flex items-center gap-2 text-[#1976A5] text-base"><svg class="w-5 h-5 text-green-500 inline" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>Acessibilidade</li>
@@ -411,7 +411,7 @@
             <img src="/img/perfis/1.png" alt="Dentista especialista em atendimento odontológico domiciliar em São Paulo - Clínica Odontológica Sorriso em Casa" class="w-24 h-24 rounded-full object-cover mb-4 border-4 border-[#E6F7FB] shadow">
             <span class="text-[#1976A5] text-lg font-bold mb-2">Dr. Thomaz</span>
             <span class="text-[#5A6A7A] text-sm mb-2">CRO/SP: 144.749</span>
-            <p class="text-[#5A6A7A] text-sm">Cirurgião Dentista especializado em Odontologia Hospitalar pelo Hospital Albert Einstein, com experiência em atendimento de pessoas com deficiência, idosos e pacientes oncológicos. Pós-graduado em Saúde Pública, CTBMF e Mestrando em Odontologia FHO.<br><br>A vontade de ajudar nasceu em 2017, ao cuidar de pessoas. Ajudar é o combustível que move minha carreira.</p>
+            <p class="text-[#5A6A7A] text-sm">Cirurgião Dentista especializado em Odontologia Hospitalar pelo Hospital Albert Einstein, com ampla experiência em cuidados odontológicos para públicos que necessitam de atenção diferenciada. Pós-graduado em Saúde Pública, CTBMF e Mestrando em Odontologia FHO.<br><br>A vontade de ajudar nasceu em 2017, ao cuidar de pessoas. Ajudar é o combustível que move minha carreira.</p>
           </div>
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center">
             <img src="/img/perfis/3.png" alt="Dentista especialista em atendimento odontológico domiciliar em São Paulo - Clínica Odontológica Sorriso em Casa" class="w-24 h-24 rounded-full object-cover mb-4 border-4 border-[#E6F7FB] shadow">
