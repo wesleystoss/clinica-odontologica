@@ -170,27 +170,53 @@
         </div>
     </header>
     <main class="pt-[60px] pb-0">
-    <!-- Hero -->
+    <!-- Hero: O que fazemos -->
     <section class="hero-bg border-b">
       <div class="hero-content">
         <h1 class="hero-title">
-          Odontologia domiciliar <br>
-          <span class="hero-highlight">em São Paulo</span>
+          Cuidamos de sorrisos e pessoas<br>
+          <span class="hero-highlight">Odontologia Humanizada onde você está</span>
         </h1>
         <p class="hero-subtitle">
-          Atendimento odontológico profissional no conforto da sua casa.
+          Nossa missão é garantir saúde, dignidade e conforto para quem mais precisa, levando atendimento odontológico especializado até o domicílio ou hospital.
         </p>
         <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="hero-btn">
           <svg viewBox="0 0 32 32"><path d="M16 3C9.373 3 4 8.373 4 15c0 2.637.86 5.13 2.49 7.23L4.06 28.44a1 1 0 0 0 1.25 1.25l6.21-2.43A11.96 11.96 0 0 0 16 27c6.627 0 12-5.373 12-12S22.627 3 16 3zm0 22c-1.77 0-3.5-.36-5.09-1.07a1 1 0 0 0-.82-.03l-4.36 1.71 1.71-4.36a1 1 0 0 0-.03-.82A9.96 9.96 0 0 1 6 15c0-5.514 4.486-10 10-10s10 4.486 10 10-4.486 10-10 10zm5.29-7.71-2.29-.66a1 1 0 0 0-.95.21l-1.27 1.04a7.97 7.97 0 0 1-3.79-3.79l1.04-1.27a1 1 0 0 0 .21-.95l-.66-2.29A1 1 0 0 0 13 8h-2A2 2 0 0 0 9 10c0 4.962 4.038 9 9 9a2 2 0 0 0 2-2v-2a1 1 0 0 0-.71-.96z"/></svg>
-          Agende pelo WhatsApp
+          Agende seu atendimento
         </a>
-        <p class="hero-trust">+500 atendimentos realizados</p>
+        <p class="hero-trust">Cuidar é nossa vocação. Atendimento humanizado, seguro e acessível.</p>
+      </div>
+    </section>
+    <!-- Como fazemos -->
+    <section class="bg-white py-12">
+      <div class="max-w-4xl mx-auto px-4 text-center">
+        <h2 class="text-2xl font-bold modelo-title mb-4">Como cuidamos de você</h2>
+        <p class="text-[#1A3A4F] text-lg mb-6">Atendemos idosos, pessoas com deficiência, acamados e pacientes oncológicos, levando tecnologia, carinho e respeito até onde você está. Utilizamos equipamentos portáteis, equipe experiente e protocolos seguros para garantir conforto e tranquilidade em cada etapa.</p>
+      </div>
+      <div class="max-w-5xl mx-auto px-4">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div class="bg-[#E6F7FB] rounded-2xl p-8 flex flex-col items-center text-center">
+            <svg class="w-12 h-12 mb-3 text-[#1976A5]" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"/></svg>
+            <h3 class="font-bold text-lg mb-2 text-[#1976A5]">Acolhimento e escuta</h3>
+            <p class="text-[#5A6A7A]">Entendemos a história, necessidades e expectativas de cada paciente e família.</p>
+          </div>
+          <div class="bg-[#E6F7FB] rounded-2xl p-8 flex flex-col items-center text-center">
+            <svg class="w-12 h-12 mb-3 text-[#1976A5]" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path stroke-linecap="round" stroke-linejoin="round" d="M8 12l2 2 4-4"/></svg>
+            <h3 class="font-bold text-lg mb-2 text-[#1976A5]">Cuidado especializado</h3>
+            <p class="text-[#5A6A7A]">Equipe qualificada, equipamentos portáteis e protocolos seguros para cada situação.</p>
+          </div>
+          <div class="bg-[#E6F7FB] rounded-2xl p-8 flex flex-col items-center text-center">
+            <img src="https://img.icons8.com/ios/48/1976A5/recurring-appointment.png" alt="Acompanhamento contínuo" class="w-12 h-12 mb-3">
+            <h3 class="font-bold text-lg mb-2 text-[#1976A5]">Acompanhamento contínuo</h3>
+            <p class="text-[#5A6A7A]">Seguimos juntos após o atendimento, orientando, acompanhando e promovendo saúde.</p>
+          </div>
+        </div>
       </div>
     </section>
     <!-- Frase de efeito -->
     <section class="bg-white py-8">
       <div class="max-w-3xl mx-auto px-4">
-        <p class="text-center text-2xl font-semibold text-[#1976A5] leading-snug">Sorria com conforto, cuide da sua saúde sem sair de casa.</p>
+        <p class="text-center text-2xl font-semibold text-[#1976A5] leading-snug">Aqui, cuidar é mais que tratar. É doar atenção, carinho e dignidade em cada atendimento.</p>
       </div>
     </section>
     <!-- Destaque de acessibilidade -->
@@ -258,50 +284,199 @@
             </div>
         </div>
     </section>
-    <!-- Sobre -->
-    <section id="sobre" class="bg-white border-b py-16">
-        <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-10 px-4">
-            <div class="flex-1 flex justify-center items-center">
-                <img src="https://images.unsplash.com/photo-1609207825181-52d3214556dd?auto=format&fit=crop&w=600&q=80" alt="Atendimento odontológico domiciliar" class="rounded-xl shadow w-full max-w-md object-cover border border-gray-200">
-            </div>
-            <div class="flex-1 text-center md:text-left">
-                <h2 class="text-2xl font-bold modelo-title mb-4">Sobre o atendimento</h2>
-                <p class="mb-6 text-[#5A6A7A] text-lg">
-                    Atendimento <span style="color:#1976A5;font-weight:600">100% domiciliar</span> com equipe experiente, tecnologia portátil e foco em pacientes com mobilidade reduzida.<br><br>
-                    Segurança, privacidade e comodidade para todas as idades.<br><br>
-                    Caso necessário, organizamos encaminhamento hospitalar de forma segura e responsável.
-                </p>
-                <a href="#contato" class="modelo-btn-green">Fale conosco</a>
-            </div>
+    <!-- Sobre a Clínica -->
+    <section id="sobre" class="py-16" style="background:#F5F8FA;">
+      <div class="max-w-5xl mx-auto px-4 flex flex-col md:flex-row gap-10 items-center">
+        <div class="flex-1">
+          <h2 class="text-2xl font-bold modelo-title mb-3">Sobre a Clínica</h2>
+          <p class="text-[#1A3A4F] text-lg mb-4">Localizada em São Paulo, nossa clínica é especializada no atendimento de pessoas com deficiência, idosos, acamados e pacientes oncológicos. Oferecemos todo o suporte necessário para realizar procedimentos cirúrgicos e não cirúrgicos no domicílio, sempre com respeito, empatia e acolhimento.</p>
+          <ul class="mb-2 space-y-2">
+            <li class="flex items-center gap-2 text-[#1976A5] text-base"><svg class="w-5 h-5 text-green-500 inline" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>Atendimento humanizado</li>
+            <li class="flex items-center gap-2 text-[#1976A5] text-base"><svg class="w-5 h-5 text-green-500 inline" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>Acessibilidade</li>
+            <li class="flex items-center gap-2 text-[#1976A5] text-base"><svg class="w-5 h-5 text-green-500 inline" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>Urgência</li>
+          </ul>
         </div>
+        <div class="flex-1 flex justify-center">
+          <img src="/img/sobre-a-clinica.png" alt="Equipe Odontológica" class="rounded-2xl shadow-lg w-full max-w-xs">
+        </div>
+      </div>
     </section>
-    <!-- Serviços -->
-    <section id="servicos" class="py-16 bg-[#E6F7FB]">
-        <div class="max-w-6xl mx-auto px-4">
-            <h2 class="text-2xl font-bold modelo-title text-center mb-8">Nossos serviços</h2>
-            <div class="grid md:grid-cols-3 gap-8">
-                <div class="modelo-card text-center flex flex-col items-center">
-                    <img src="https://img.icons8.com/ios/50/1976A5/tooth.png" class="modelo-icon"/>
-                    <h3 class="font-semibold text-lg mb-2" style="color:#1976A5">Limpeza e Prevenção</h3>
-                    <p class="text-[#5A6A7A]">Limpeza, profilaxia, aplicação de flúor e orientações de higiene bucal.</p>
-                </div>
-                <div class="modelo-card text-center flex flex-col items-center">
-                    <img src="https://img.icons8.com/ios/50/1976A5/dental-crown.png" class="modelo-icon"/>
-                    <h3 class="font-semibold text-lg mb-2" style="color:#1976A5">Restaurações e Próteses</h3>
-                    <p class="text-[#5A6A7A]">Restaurações estéticas, próteses removíveis e fixas, coroas e pontes.</p>
-                </div>
-                <div class="modelo-card text-center flex flex-col items-center">
-                    <img src="https://img.icons8.com/ios/50/1976A5/dental-braces.png" class="modelo-icon"/>
-                    <h3 class="font-semibold text-lg mb-2" style="color:#1976A5">Ortodontia</h3>
-                    <p class="text-[#5A6A7A]">Aparelhos ortodônticos, manutenção e acompanhamento domiciliar.</p>
-                </div>
-            </div>
+    <!-- Procedimentos realizados -->
+    <section id="servicos" class="py-16 bg-white">
+      <div class="max-w-6xl mx-auto px-4">
+        <h2 class="text-2xl font-bold modelo-title text-center mb-3">Procedimentos Realizados</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 justify-items-center mt-8">
+          <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center" style="min-width:220px;">
+            <img src="https://img.icons8.com/ios/80/1976A5/tooth.png" class="w-16 h-16 mb-4"/>
+            <span class="text-[#1976A5] text-lg font-bold mb-2">Tratamento Periodontal</span>
+            <p class="text-[#5A6A7A] text-sm">Cuidado especializado para saúde das gengivas e tecidos de suporte dos dentes.</p>
+          </div>
+          <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center" style="min-width:220px;">
+            <img src="https://img.icons8.com/ios/80/1976A5/cancel.png" class="w-16 h-16 mb-4"/>
+            <span class="text-[#1976A5] text-lg font-bold mb-2">Exodontia</span>
+            <p class="text-[#5A6A7A] text-sm">Extração de dentes de forma segura, confortável e minimamente invasiva.</p>
+          </div>
+          <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center" style="min-width:220px;">
+            <img src="https://img.icons8.com/ios/80/1976A5/dental-filling.png" class="w-16 h-16 mb-4"/>
+            <span class="text-[#1976A5] text-lg font-bold mb-2">Restaurações</span>
+            <p class="text-[#5A6A7A] text-sm">Recuperação da estrutura dental, devolvendo função e estética ao sorriso.</p>
+          </div>
+          <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center" style="min-width:220px;">
+            <img src="https://img.icons8.com/ios/80/1976A5/dental-crown.png" class="w-16 h-16 mb-4"/>
+            <span class="text-[#1976A5] text-lg font-bold mb-2">Reabilitação Oral</span>
+            <p class="text-[#5A6A7A] text-sm">Tratamentos para devolver a saúde, função e estética bucal.</p>
+          </div>
+          <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center" style="min-width:220px;">
+            <img src="https://img.icons8.com/ios/80/1976A5/laser-beam.png" class="w-16 h-16 mb-4"/>
+            <span class="text-[#1976A5] text-lg font-bold mb-2">Laserterapia</span>
+            <p class="text-[#5A6A7A] text-sm">Terapia com laser para alívio de dor, cicatrização e recuperação pós-operatória.</p>
+          </div>
+          <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center" style="min-width:220px;">
+            <img src="https://img.icons8.com/ios/80/1976A5/pill.png" class="w-16 h-16 mb-4"/>
+            <span class="text-[#1976A5] text-lg font-bold mb-2">Sedação Medicamentosa</span>
+            <p class="text-[#5A6A7A] text-sm">Mais conforto e tranquilidade para procedimentos, com acompanhamento seguro.</p>
+          </div>
         </div>
+      </div>
+    </section>
+    <!-- Equipe -->
+    <section id="equipe" class="py-16 bg-[#E6F7FB]">
+      <div class="max-w-6xl mx-auto px-4">
+        <h2 class="text-2xl font-bold modelo-title text-center mb-8">Quem está com você</h2>
+        <p class="text-[#1A3A4F] text-lg text-center mb-10">Somos apaixonados por cuidar de pessoas. Conheça nossa equipe e o propósito de cada um:</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
+          <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center">
+            <img src="/img/perfis/1.png" alt="Dr. Thomaz" class="w-24 h-24 rounded-full object-cover mb-4 border-4 border-[#E6F7FB] shadow">
+            <span class="text-[#1976A5] text-lg font-bold mb-2">Dr. Thomaz</span>
+            <span class="text-[#5A6A7A] text-sm mb-2">CRO/SP: 144.749</span>
+            <p class="text-[#5A6A7A] text-sm">Cirurgião Dentista especializado em Odontologia Hospitalar pelo Hospital Albert Einstein, com experiência em atendimento de pessoas com deficiência, idosos e pacientes oncológicos. Pós-graduado em Saúde Pública, CTBMF e Mestrando em Odontologia FHO.<br><br>A vontade de ajudar nasceu em 2017, ao cuidar de pessoas. Ajudar é o combustível que move minha carreira.</p>
+          </div>
+          <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center">
+            <img src="/img/perfis/3.png" alt="Dr. Cesar" class="w-24 h-24 rounded-full object-cover mb-4 border-4 border-[#E6F7FB] shadow">
+            <span class="text-[#1976A5] text-lg font-bold mb-2">Dr. Cesar</span>
+            <span class="text-[#5A6A7A] text-sm mb-2">CRO/SP: 123.003</span>
+            <p class="text-[#5A6A7A] text-sm">Cirurgião Dentista especializado em Ortodontia pela Funorte, Mestre em Odontologia na área de Periodontia pela Universidade Guarulhos.<br><br>Cuidar e aliviar a dor do outro é algo que transcende o profissional, é missão de vida.</p>
+          </div>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-10 mt-8">
+          <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center">
+            <img src="/img/perfis/2.png" alt="ASB Tais Cristina" class="w-24 h-24 rounded-full object-cover mb-4 border-4 border-[#E6F7FB] shadow">
+            <span class="text-[#1976A5] text-lg font-bold mb-2">ASB Tais Cristina</span>
+            <p class="text-[#5A6A7A] text-sm">Auxilia em todas as operações cirúrgicas e não cirúrgicas, proporcionando conforto e segurança para pacientes e familiares.</p>
+          </div>
+          <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center">
+            <img src="/img/perfis/2.png" alt="ASB Flavia Gariani" class="w-24 h-24 rounded-full object-cover mb-4 border-4 border-[#E6F7FB] shadow">
+            <span class="text-[#1976A5] text-lg font-bold mb-2">ASB Flavia Gariani</span>
+            <p class="text-[#5A6A7A] text-sm">Apoio essencial em todos os procedimentos, ajudando a transformar vidas e promover saúde com dedicação.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Passo a Passo do Atendimento Domiciliar -->
+    <section class="py-16 bg-white">
+      <div class="max-w-5xl mx-auto px-4">
+        <h2 class="text-2xl font-bold modelo-title text-center mb-10">Nosso cuidado na prática</h2>
+        <div class="hidden md:flex items-start justify-center gap-0">
+          <!-- Passo 1 -->
+          <div class="flex flex-col items-center text-center flex-1 min-h-[370px] px-2">
+            <div class="bg-[#E6F7FB] rounded-full w-16 h-16 flex items-center justify-center mb-4 shadow mt-0">
+              <span class="text-3xl font-bold text-[#1976A5]">1</span>
+            </div>
+            <h3 class="text-lg font-semibold text-[#1976A5] mb-2">Primeiro Contato e Avaliação Inicial</h3>
+            <p class="text-[#5A6A7A] text-base">Conversamos com o paciente e/ou familiares para entender as necessidades, histórico de saúde e expectativas. Realizamos uma avaliação inicial, podendo solicitar exames complementares ou de imagem, sempre com muita atenção e acolhimento.</p>
+          </div>
+          <!-- Seta 1 -->
+          <div class="flex flex-col items-center justify-center h-full">
+            <svg width="40" height="40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10 20h20M20 10l10 10-10 10" stroke="#5ED6C0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </div>
+          <!-- Passo 2 -->
+          <div class="flex flex-col items-center text-center flex-1 min-h-[370px] px-2">
+            <div class="bg-[#E6F7FB] rounded-full w-16 h-16 flex items-center justify-center mb-4 shadow mt-0">
+              <span class="text-3xl font-bold text-[#1976A5]">2</span>
+            </div>
+            <h3 class="text-lg font-semibold text-[#1976A5] mb-2">Preparação e Medicação</h3>
+            <p class="text-[#5A6A7A] text-base">Orientamos sobre o preparo para o atendimento, incluindo possíveis medicações ansiolíticas para maior conforto e, se necessário, atomização nasal para facilitar o procedimento.</p>
+          </div>
+          <!-- Seta 2 -->
+          <div class="flex flex-col items-center justify-center h-full">
+            <svg width="40" height="40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10 20h20M20 10l10 10-10 10" stroke="#5ED6C0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </div>
+          <!-- Passo 3 -->
+          <div class="flex flex-col items-center text-center flex-1 min-h-[370px] px-2">
+            <div class="bg-[#E6F7FB] rounded-full w-16 h-16 flex items-center justify-center mb-4 shadow mt-0">
+              <span class="text-3xl font-bold text-[#1976A5]">3</span>
+            </div>
+            <h3 class="text-lg font-semibold text-[#1976A5] mb-2">Procedimentos Diagnósticos e Tratamentos</h3>
+            <p class="text-[#5A6A7A] text-base">Realizamos procedimentos diagnósticos (como biópsias) e os tratamentos necessários, sejam eles cirúrgicos ou não cirúrgicos, sempre priorizando a segurança, o bem-estar e a tranquilidade do paciente.</p>
+          </div>
+          <!-- Seta 3 -->
+          <div class="flex flex-col items-center justify-center h-full">
+            <svg width="40" height="40" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10 20h20M20 10l10 10-10 10" stroke="#5ED6C0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </div>
+          <!-- Passo 4 -->
+          <div class="flex flex-col items-center text-center flex-1 min-h-[370px] px-2">
+            <div class="bg-[#E6F7FB] rounded-full w-16 h-16 flex items-center justify-center mb-4 shadow mt-0">
+              <span class="text-3xl font-bold text-[#1976A5]">4</span>
+            </div>
+            <h3 class="text-lg font-semibold text-[#1976A5] mb-2">Acompanhamento Pós-Operatório e Suporte</h3>
+            <p class="text-[#5A6A7A] text-base">Após o atendimento, seguimos acompanhando o paciente, orientando sobre medicações, realizando laserterapia quando indicado e estando sempre disponíveis para dúvidas ou necessidades.</p>
+          </div>
+        </div>
+        <!-- Mobile: empilhar os passos sem setas -->
+        <div class="md:hidden flex flex-col gap-8">
+          <div class="flex flex-col items-center text-center min-h-[270px]">
+            <div class="bg-[#E6F7FB] rounded-full w-16 h-16 flex items-center justify-center mb-4 shadow mt-0">
+              <span class="text-3xl font-bold text-[#1976A5]">1</span>
+            </div>
+            <h3 class="text-lg font-semibold text-[#1976A5] mb-2">Primeiro Contato e Avaliação Inicial</h3>
+            <p class="text-[#5A6A7A] text-base">Conversamos com o paciente e/ou familiares para entender as necessidades, histórico de saúde e expectativas. Realizamos uma avaliação inicial, podendo solicitar exames complementares ou de imagem, sempre com muita atenção e acolhimento.</p>
+          </div>
+          <div class="flex flex-col items-center text-center min-h-[270px]">
+            <div class="bg-[#E6F7FB] rounded-full w-16 h-16 flex items-center justify-center mb-4 shadow mt-0">
+              <span class="text-3xl font-bold text-[#1976A5]">2</span>
+            </div>
+            <h3 class="text-lg font-semibold text-[#1976A5] mb-2">Preparação e Medicação</h3>
+            <p class="text-[#5A6A7A] text-base">Orientamos sobre o preparo para o atendimento, incluindo possíveis medicações ansiolíticas para maior conforto e, se necessário, atomização nasal para facilitar o procedimento.</p>
+          </div>
+          <div class="flex flex-col items-center text-center min-h-[270px]">
+            <div class="bg-[#E6F7FB] rounded-full w-16 h-16 flex items-center justify-center mb-4 shadow mt-0">
+              <span class="text-3xl font-bold text-[#1976A5]">3</span>
+            </div>
+            <h3 class="text-lg font-semibold text-[#1976A5] mb-2">Procedimentos Diagnósticos e Tratamentos</h3>
+            <p class="text-[#5A6A7A] text-base">Realizamos procedimentos diagnósticos (como biópsias) e os tratamentos necessários, sejam eles cirúrgicos ou não cirúrgicos, sempre priorizando a segurança, o bem-estar e a tranquilidade do paciente.</p>
+          </div>
+          <div class="flex flex-col items-center text-center min-h-[270px]">
+            <div class="bg-[#E6F7FB] rounded-full w-16 h-16 flex items-center justify-center mb-4 shadow mt-0">
+              <span class="text-3xl font-bold text-[#1976A5]">4</span>
+            </div>
+            <h3 class="text-lg font-semibold text-[#1976A5] mb-2">Acompanhamento Pós-Operatório e Suporte</h3>
+            <p class="text-[#5A6A7A] text-base">Após o atendimento, seguimos acompanhando o paciente, orientando sobre medicações, realizando laserterapia quando indicado e estando sempre disponíveis para dúvidas ou necessidades.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Filantropia -->
+    <section class="py-16 bg-[#E6F7FB]">
+      <div class="max-w-4xl mx-auto px-4 text-center">
+        <h2 class="text-2xl font-bold modelo-title mb-3">Impacto Social</h2>
+        <p class="text-[#1A3A4F] text-lg">A cada paciente atendido, doamos uma cesta básica para uma instituição indicada pela família. Cuidar é também transformar realidades.</p>
+      </div>
+    </section>
+    <!-- Contato -->
+    <section id="contato" class="py-16 bg-white">
+      <div class="max-w-4xl mx-auto px-4 text-center">
+        <h2 class="text-2xl font-bold modelo-title mb-3">Fale com a gente</h2>
+        <p class="text-[#1A3A4F] text-lg mb-4">Estamos prontos para te ouvir, tirar dúvidas e agendar seu atendimento. Conte conosco!</p>
+        <div class="flex flex-col items-center gap-2">
+          <span class="text-[#1976A5] text-lg font-semibold">Telefone: (11) (A INFORMAR)</span>
+          <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="modelo-btn-green">WhatsApp</a>
+        </div>
+      </div>
     </section>
     <!-- Avaliações dos Clientes -->
     <section class="py-16 bg-[#E6F7FB]">
       <div class="max-w-5xl mx-auto px-4">
-        <h2 class="text-2xl font-bold modelo-title text-center mb-10">Avaliações dos Clientes</h2>
+        <h2 class="text-2xl font-bold modelo-title text-center mb-10">O que dizem nossos pacientes</h2>
         <div class="grid md:grid-cols-3 gap-8">
           <div class="bg-white rounded-xl shadow p-6 flex flex-col items-center text-center">
             <img src="https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=facearea&w=128&q=80&facepad=2" class="w-20 h-20 rounded-full mb-4 object-cover" alt="Cliente 1">
@@ -323,24 +498,6 @@
           </div>
         </div>
       </div>
-    </section>
-    <!-- Contato -->
-    <section id="contato" class="bg-white py-16">
-        <div class="max-w-6xl mx-auto text-center px-4">
-            <h2 class="text-2xl font-bold modelo-title mb-6">Contato</h2>
-            <p class="mb-6 text-[#5A6A7A] text-lg">Entre em contato para agendar seu atendimento odontológico domiciliar ou tirar dúvidas. Todo o atendimento é realizado no domicílio do paciente e, se necessário, organizamos e acompanhamos procedimentos em ambiente hospitalar.</p>
-            <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="modelo-btn-green mb-4 inline-flex items-center gap-2">
-              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12c0 5.385 4.365 9.75 9.75 9.75 1.7 0 3.3-.425 4.7-1.175l3.3.825a.75.75 0 00.925-.925l-.825-3.3A9.708 9.708 0 0021.75 12c0-5.385-4.365-9.75-9.75-9.75S2.25 6.615 2.25 12z" /></svg>
-              Agendar pelo WhatsApp
-            </a>
-            <div class="mt-4 flex flex-col items-center gap-2">
-              <span class="text-[#1A3A4F] font-semibold text-lg">Ou se preferir, ligue para:</span>
-              <a href="tel:+5511999999999" class="inline-flex items-center gap-2 bg-[#1976A5] hover:bg-[#14577c] text-white font-bold py-3 px-8 rounded-full shadow transition text-lg mt-2" style="font-size:1.15rem;">
-                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0-1.243 1.007-2.25 2.25-2.25h2.086c.414 0 .81.168 1.103.466l2.027 2.034a2.25 2.25 0 01.434 2.466l-.637 1.591a.75.75 0 00.217.83l2.457 2.457a.75.75 0 00.83.217l1.591-.637a2.25 2.25 0 012.466.434l2.034 2.027c.298.293.466.689.466 1.103v2.086a2.25 2.25 0 01-2.25 2.25h-.75C7.798 21 3 16.202 3 10.75v-.75z" /></svg>
-              (11) 99999-9999
-            </a>
-          </div>
-        </div>
     </section>
     <!-- Footer -->
     <footer class="py-10 text-base bg-blue-900 border-t">
