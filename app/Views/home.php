@@ -307,22 +307,22 @@
         <p class="text-center text-[#5A6A7A] text-lg mb-10">Conheça as principais áreas de atendimento odontológico domiciliar oferecidas por nossa equipe especializada.</p>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10 justify-items-center">
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center transition-transform hover:-translate-y-1 hover:shadow-xl" style="min-width:220px;">
-            <img src="https://img.icons8.com/ios/80/1976A5/tooth.png" class="w-16 h-16 mb-4"/>
+            <img src="https://img.icons8.com/ios/80/1976A5/tooth.png" class="w-16 h-16 mb-4" alt="Ícone de dente para Dentística"/>
             <span class="text-[#1976A5] text-lg font-bold mb-2">Dentística</span>
             <p class="text-[#5A6A7A] text-sm">Restaurações estéticas, clareamento e cuidados com a saúde do sorriso.</p>
           </div>
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center transition-transform hover:-translate-y-1 hover:shadow-xl" style="min-width:220px;">
-            <img src="https://img.icons8.com/ios/80/1976A5/dental-braces.png" class="w-16 h-16 mb-4"/>
+            <img src="https://img.icons8.com/ios/80/1976A5/dental-braces.png" class="w-16 h-16 mb-4" alt="Ícone de aparelho ortodôntico para Ortodontia"/>
             <span class="text-[#1976A5] text-lg font-bold mb-2">Ortodontia</span>
             <p class="text-[#5A6A7A] text-sm">Aparelhos ortodônticos, manutenção e alinhamento dos dentes em casa.</p>
           </div>
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center transition-transform hover:-translate-y-1 hover:shadow-xl" style="min-width:220px;">
-            <img src="https://img.icons8.com/ios/80/1976A5/baby-bottle.png" class="w-16 h-16 mb-4"/>
+            <img src="https://img.icons8.com/ios/80/1976A5/baby-bottle.png" class="w-16 h-16 mb-4" alt="Ícone de mamadeira para Odontopediatria"/>
             <span class="text-[#1976A5] text-lg font-bold mb-2">Odontopediatria</span>
             <p class="text-[#5A6A7A] text-sm">Cuidado odontológico especializado para crianças, com conforto e carinho.</p>
           </div>
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center transition-transform hover:-translate-y-1 hover:shadow-xl" style="min-width:220px;">
-            <img src="https://img.icons8.com/ios/80/1976A5/dental-implant.png" class="w-16 h-16 mb-4"/>
+            <img src="https://img.icons8.com/ios/80/1976A5/dental-implant.png" class="w-16 h-16 mb-4" alt="Ícone de implante dentário para Implantodontia"/>
             <span class="text-[#1976A5] text-lg font-bold mb-2">Implantodontia</span>
             <p class="text-[#5A6A7A] text-sm">Implantes dentários e reabilitação oral com tecnologia portátil.</p>
           </div>
@@ -370,32 +370,32 @@
         <h2 class="text-2xl font-bold modelo-title text-center mb-3">Procedimentos Realizados</h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 justify-items-center mt-8">
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center" style="min-width:220px;">
-            <img src="https://img.icons8.com/ios/80/1976A5/tooth.png" class="w-16 h-16 mb-4"/>
+            <img src="https://img.icons8.com/ios/80/1976A5/tooth.png" class="w-16 h-16 mb-4" alt="Ícone de dente para Tratamento Periodontal"/>
             <span class="text-[#1976A5] text-lg font-bold mb-2">Tratamento Periodontal</span>
             <p class="text-[#5A6A7A] text-sm">Cuidado especializado para saúde das gengivas e tecidos de suporte dos dentes.</p>
           </div>
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center" style="min-width:220px;">
-            <img src="https://img.icons8.com/ios/80/1976A5/cancel.png" class="w-16 h-16 mb-4"/>
+            <img src="https://img.icons8.com/ios/80/1976A5/cancel.png" class="w-16 h-16 mb-4" alt="Ícone de extração dentária para Exodontia"/>
             <span class="text-[#1976A5] text-lg font-bold mb-2">Exodontia</span>
             <p class="text-[#5A6A7A] text-sm">Extração de dentes de forma segura, confortável e minimamente invasiva.</p>
           </div>
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center" style="min-width:220px;">
-            <img src="https://img.icons8.com/ios/80/1976A5/dental-filling.png" class="w-16 h-16 mb-4"/>
+            <img src="https://img.icons8.com/ios/80/1976A5/dental-filling.png" class="w-16 h-16 mb-4" alt="Ícone de restauração dentária para Restaurações"/>
             <span class="text-[#1976A5] text-lg font-bold mb-2">Restaurações</span>
             <p class="text-[#5A6A7A] text-sm">Recuperação da estrutura dental, devolvendo função e estética ao sorriso.</p>
           </div>
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center" style="min-width:220px;">
-            <img src="https://img.icons8.com/ios/80/1976A5/dental-crown.png" class="w-16 h-16 mb-4"/>
+            <img src="https://img.icons8.com/ios/80/1976A5/dental-crown.png" class="w-16 h-16 mb-4" alt="Ícone de coroa dentária para Reabilitação Oral"/>
             <span class="text-[#1976A5] text-lg font-bold mb-2">Reabilitação Oral</span>
             <p class="text-[#5A6A7A] text-sm">Tratamentos para devolver a saúde, função e estética bucal.</p>
           </div>
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center" style="min-width:220px;">
-            <img src="https://img.icons8.com/ios/80/1976A5/laser-beam.png" class="w-16 h-16 mb-4"/>
+            <img src="https://img.icons8.com/ios/80/1976A5/laser-beam.png" class="w-16 h-16 mb-4" alt="Ícone de laser para Laserterapia"/>
             <span class="text-[#1976A5] text-lg font-bold mb-2">Laserterapia</span>
             <p class="text-[#5A6A7A] text-sm">Terapia com laser para alívio de dor, cicatrização e recuperação pós-operatória.</p>
           </div>
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center" style="min-width:220px;">
-            <img src="https://img.icons8.com/ios/80/1976A5/pill.png" class="w-16 h-16 mb-4"/>
+            <img src="https://img.icons8.com/ios/80/1976A5/pill.png" class="w-16 h-16 mb-4" alt="Ícone de comprimido para Sedação Medicamentosa"/>
             <span class="text-[#1976A5] text-lg font-bold mb-2">Sedação Medicamentosa</span>
             <p class="text-[#5A6A7A] text-sm">Mais conforto e tranquilidade para procedimentos, com acompanhamento seguro.</p>
           </div>
@@ -647,7 +647,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
       Ligar
     </a>
   </div>
-  <button id="btn-canais" class="relative inline-flex items-center justify-center h-14 w-14 rounded-full bg-green-500 shadow-lg focus:outline-none group">
+  <button id="btn-canais" class="relative inline-flex items-center justify-center h-14 w-14 rounded-full bg-green-500 shadow-lg focus:outline-none group" aria-label="Abrir opções de contato">
     <span class="absolute inline-flex h-14 w-14 rounded-full bg-green-500 opacity-75 group-hover:opacity-100 animate-ping"></span>
     <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" class="w-8 h-8 relative z-10">
       <path d="M20.52 3.48A12.07 12.07 0 0 0 12 0C5.37 0 0 5.37 0 12a11.93 11.93 0 0 0 1.64 6.06L0 24l6.18-1.62A12.09 12.09 0 0 0 12 24c6.63 0 12-5.37 12-12 0-3.2-1.25-6.21-3.48-8.52zM12 22a10.13 10.13 0 0 1-5.19-1.43l-.37-.22-3.67.96.98-3.58-.24-.37A10.13 10.13 0 0 1 2 12c0-5.52 4.48-10 10-10s10 4.48 10 10-4.48 10-10 10zm5.47-7.14c-.3-.15-1.77-.87-2.04-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.35.22-.65.07-.3-.15-1.27-.47-2.42-1.5-.9-.8-1.5-1.77-1.67-2.07-.17-.3-.02-.46.13-.61.13-.13.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.02-.52-.07-.15-.67-1.62-.92-2.22-.24-.58-.48-.5-.67-.5-.17 0-.37-.02-.57-.02-.2 0-.52.07-.8.37-.27.3-1.05 1.02-1.05 2.5 0 1.48 1.08 2.92 1.23 3.12.15.2 2.13 3.25 5.17 4.42.72.25 1.28.4 1.72.51.72.18 1.38.15 1.9.09.58-.07 1.77-.72 2.02-1.42.25-.7.25-1.3.17-1.42-.07-.12-.27-.2-.57-.35z"/>
