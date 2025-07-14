@@ -3,25 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Odontologia Domiciliar em São Paulo | Atendimento 100% Domiciliar | OdontoDomiciliar</title>
-    <meta name="description" content="Odontologia domiciliar em São Paulo. Atendimento odontológico 100% no domicílio, com agendamento fácil pelo WhatsApp. Equipe experiente, tecnologia portátil e foco em pacientes com mobilidade reduzida. Organização hospitalar apenas se necessário.">
-    <meta name="keywords" content="odontologia domiciliar, dentista em casa, atendimento odontológico, São Paulo, prótese, ortodontia, odontopediatria, implante, endodontia, clínica odontológica, agendamento WhatsApp">
+    <title>Clínica Sorriso em Casa | Odontologia Domiciliar em São Paulo</title>
+    <meta name="description" content="A Clínica Sorriso em Casa oferece atendimento odontológico domiciliar em São Paulo, com equipe especializada, tecnologia portátil e foco em idosos, pessoas com mobilidade reduzida e necessidades especiais. Agende sua consulta e sorria com saúde no conforto do seu lar!">
+    <meta name="keywords" content="odontologia domiciliar, dentista em casa, atendimento odontológico, São Paulo, clínica odontológica, idosos, mobilidade reduzida, prótese, implante, odontopediatria, endodontia, saúde bucal, atendimento especial">
     <meta name="robots" content="index, follow">
-    <meta name="author" content="OdontoDomiciliar">
-    <meta property="og:title" content="Odontologia Domiciliar em São Paulo | OdontoDomiciliar">
-    <meta property="og:description" content="Atendimento odontológico 100% domiciliar em São Paulo. Agende pelo WhatsApp e receba cuidados profissionais no conforto do seu lar. Organização hospitalar apenas se necessário.">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://SEU-LINK-DEMO.com.br/">
-    <meta property="og:image" content="https://images.unsplash.com/photo-1681939278218-a755fb2bf2d3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
-    <link rel="canonical" href="https://SEU-LINK-DEMO.com.br/">
+    <meta name="author" content="Clínica Sorriso em Casa">
+    <meta property="og:title" content="Clínica Sorriso em Casa | Odontologia Domiciliar em São Paulo">
+    <meta property="og:description" content="Atendimento odontológico domiciliar humanizado em São Paulo. Equipe experiente, tecnologia portátil e foco em pacientes com necessidades especiais. Agende sua consulta!"><meta property="og:type" content="website">
+    <meta property="og:url" content="https://sorrisoemcasa.com.br/">
+    <meta property="og:image" content="/img/hero.jpg">
     <meta property="og:locale" content="pt_BR">
-    <meta property="og:site_name" content="OdontoDomiciliar">
+    <meta property="og:site_name" content="Clínica Sorriso em Casa">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Odontologia Domiciliar em São Paulo | OdontoDomiciliar">
-    <meta name="twitter:description" content="Atendimento odontológico 100% domiciliar em São Paulo. Agende pelo WhatsApp e receba cuidados profissionais no conforto do seu lar.">
-    <meta name="twitter:image" content="https://images.unsplash.com/photo-1681939278218-a755fb2bf2d3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
-    <meta name="twitter:site" content="@SeuPerfilTwitter">
-    <meta name="twitter:creator" content="@SeuPerfilTwitter">
+    <meta name="twitter:title" content="Clínica Sorriso em Casa | Odontologia Domiciliar em São Paulo">
+    <meta name="twitter:description" content="Atendimento odontológico domiciliar humanizado em São Paulo. Equipe experiente, tecnologia portátil e foco em pacientes com necessidades especiais. Agende sua consulta!">
+    <meta name="twitter:image" content="/img/hero.jpg">
+    <meta name="twitter:site" content="@sorrisoemcasa">
+    <meta name="twitter:creator" content="@sorrisoemcasa">
     <link rel="icon" type="image/png" href="https://img.icons8.com/ios-filled/50/4F46E5/tooth.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
@@ -182,11 +180,11 @@
     <!-- Hero: O que fazemos -->
     <section class="relative border-b" style="min-height: 100vh;">
       <div id="hero-carousel" class="relative w-full h-[100vh] overflow-hidden">
-        <img src="/img/carrousel/11.png" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-100 transition-opacity duration-700" />
-        <img src="/img/carrousel/12.png" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-700" />
+        <img src="/img/carrousel/11.png" alt="Equipe da Clínica Sorriso em Casa realizando atendimento odontológico domiciliar em São Paulo" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-100 transition-opacity duration-700" />
+        <img src="/img/carrousel/12.png" alt="Paciente recebendo atendimento odontológico domiciliar com conforto e segurança" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-700" />
         <div class="absolute left-0 right-0 bottom-[80px] flex justify-center z-10 p-4">
           <div class="bg-white/85 rounded-xl px-6 py-4 text-center max-w-lg shadow-lg">
-            <h1 class="text-2xl md:text-3xl font-bold text-[#1976A5] mb-2">Odontologia Humanizada</h1>
+            <h1 class="text-2xl md:text-3xl font-bold text-[#1976A5] mb-2">Odontologia Domiciliar Humanizada em São Paulo</h1>
             <p class="text-gray-700 text-base md:text-lg mb-3">Cuidamos de pessoas e sorrisos, onde você estiver.</p>
             <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="hero-btn mt-1">Agende seu atendimento</a>
           </div>
@@ -220,7 +218,7 @@
     <!-- Como fazemos -->
     <section class="bg-white py-12">
       <div class="max-w-4xl mx-auto px-4 text-center">
-        <h2 class="text-2xl font-bold modelo-title mb-4">Como cuidamos de você</h2>
+        <h2 class="text-2xl font-bold modelo-title mb-4">Como a Clínica Sorriso em Casa cuida de você</h2>
         <p class="text-[#1A3A4F] text-lg mb-6">Atendemos idosos, pessoas com deficiência, acamados e pacientes oncológicos, levando tecnologia, carinho e respeito até onde você está. Utilizamos equipamentos portáteis, equipe experiente e protocolos seguros para garantir conforto e tranquilidade em cada etapa.</p>
       </div>
       <div class="max-w-5xl mx-auto px-4">
@@ -373,13 +371,13 @@
         <p class="text-[#1A3A4F] text-lg text-center mb-10">Somos apaixonados por cuidar de pessoas. Conheça nossa equipe e o propósito de cada um:</p>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center">
-            <img src="/img/perfis/1.png" alt="Dr. Thomaz" class="w-24 h-24 rounded-full object-cover mb-4 border-4 border-[#E6F7FB] shadow">
+            <img src="/img/perfis/1.png" alt="Dentista especialista em atendimento domiciliar em São Paulo" class="w-24 h-24 rounded-full object-cover mb-4 border-4 border-[#E6F7FB] shadow">
             <span class="text-[#1976A5] text-lg font-bold mb-2">Dr. Thomaz</span>
             <span class="text-[#5A6A7A] text-sm mb-2">CRO/SP: 144.749</span>
             <p class="text-[#5A6A7A] text-sm">Cirurgião Dentista especializado em Odontologia Hospitalar pelo Hospital Albert Einstein, com experiência em atendimento de pessoas com deficiência, idosos e pacientes oncológicos. Pós-graduado em Saúde Pública, CTBMF e Mestrando em Odontologia FHO.<br><br>A vontade de ajudar nasceu em 2017, ao cuidar de pessoas. Ajudar é o combustível que move minha carreira.</p>
           </div>
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center">
-            <img src="/img/perfis/3.png" alt="Dr. Cesar" class="w-24 h-24 rounded-full object-cover mb-4 border-4 border-[#E6F7FB] shadow">
+            <img src="/img/perfis/3.png" alt="Dentista especialista em atendimento domiciliar em São Paulo" class="w-24 h-24 rounded-full object-cover mb-4 border-4 border-[#E6F7FB] shadow">
             <span class="text-[#1976A5] text-lg font-bold mb-2">Dr. Cesar</span>
             <span class="text-[#5A6A7A] text-sm mb-2">CRO/SP: 123.003</span>
             <p class="text-[#5A6A7A] text-sm">Cirurgião Dentista especializado em Ortodontia pela Funorte, Mestre em Odontologia na área de Periodontia pela Universidade Guarulhos.<br><br>Cuidar e aliviar a dor do outro é algo que transcende o profissional, é missão de vida.</p>
