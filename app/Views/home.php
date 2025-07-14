@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clínica Sorriso em Casa | Odontologia Domiciliar em São Paulo</title>
-    <meta name="description" content="A Clínica Sorriso em Casa oferece atendimento odontológico domiciliar em São Paulo, com equipe especializada, tecnologia portátil e foco em idosos, pessoas com mobilidade reduzida e necessidades especiais. Agende sua consulta e sorria com saúde no conforto do seu lar!">
-    <meta name="keywords" content="odontologia domiciliar, dentista em casa, atendimento odontológico, São Paulo, clínica odontológica, idosos, mobilidade reduzida, prótese, implante, odontopediatria, endodontia, saúde bucal, atendimento especial">
+    <title>Dentista em Casa em São Paulo | Odontologia Domiciliar | Clínica Odontológica Sorriso em Casa</title>
+    <meta name="description" content="Dentista em casa em São Paulo. Atendimento odontológico domiciliar, clínica odontológica especializada, odontologia para idosos, pessoas com necessidades especiais e toda a família. Agende sua consulta com a Sorriso em Casa!">
+    <meta name="keywords" content="dentista, odonto, odontologia, odontológico, dentista em casa, atendimento odontológico, atendimento domiciliar, clínica odontológica, São Paulo, prótese, implante, odontopediatria, endodontia, saúde bucal, atendimento especial, dentista para idosos, dentista para PCD">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Clínica Sorriso em Casa">
     <meta property="og:title" content="Clínica Sorriso em Casa | Odontologia Domiciliar em São Paulo">
@@ -177,11 +177,19 @@
         </div>
     </header>
     <main class="pt-[60px] pb-0">
+    <!-- Parágrafo SEO -->
+    <section class="bg-white py-6">
+      <div class="max-w-3xl mx-auto px-4 text-center">
+        <p class="text-lg text-[#1A3A4F] font-semibold mb-4">
+          A <strong>Clínica Odontológica Sorriso em Casa</strong> oferece <strong>atendimento odontológico domiciliar</strong> em São Paulo, levando o cuidado de um <strong>dentista em casa</strong> para idosos, pessoas com necessidades especiais e toda a família. Nossa equipe é especializada em <strong>odontologia</strong> humanizada, com tecnologia portátil e foco em conforto, segurança e saúde bucal. Agende sua consulta e descubra como é fácil cuidar do seu sorriso sem sair de casa!
+        </p>
+      </div>
+    </section>
     <!-- Hero: O que fazemos -->
     <section class="relative border-b" style="min-height: 100vh;">
       <div id="hero-carousel" class="relative w-full h-[100vh] overflow-hidden">
-        <img src="/img/carrousel/11.png" alt="Equipe da Clínica Sorriso em Casa realizando atendimento odontológico domiciliar em São Paulo" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-100 transition-opacity duration-700" />
-        <img src="/img/carrousel/12.png" alt="Paciente recebendo atendimento odontológico domiciliar com conforto e segurança" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-700" />
+        <img src="/img/carrousel/11.png" alt="Dentista em casa realizando atendimento odontológico domiciliar em São Paulo para paciente especial" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-100 transition-opacity duration-700" />
+        <img src="/img/carrousel/12.png" alt="Odontologia domiciliar: atendimento odontológico especializado em casa em São Paulo" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-700" />
         <div class="absolute left-0 right-0 bottom-[80px] flex justify-center z-10 p-4">
           <div class="bg-white/85 rounded-xl px-6 py-4 text-center max-w-lg shadow-lg">
             <h1 class="text-2xl md:text-3xl font-bold text-[#1976A5] mb-2">Odontologia Domiciliar Humanizada em São Paulo</h1>
@@ -287,27 +295,23 @@
         </div>
       </div>
     </section>
-    <!-- FAQ -->
-    <section id="faq" class="py-16 bg-[#E6F7FB]">
-        <div class="max-w-4xl mx-auto px-4">
-            <h2 class="text-2xl font-bold modelo-title text-center mb-8">Perguntas Frequentes</h2>
-            <div class="modelo-faq-box">
-                <h3 class="font-semibold" style="color:#1976A5">Como funciona o atendimento odontológico domiciliar?</h3>
-                <p class="text-[#5A6A7A]">O atendimento é realizado na residência do paciente, com equipamentos portáteis e toda a segurança necessária. Procedimentos são feitos no conforto do lar, exceto os que exigem ambiente hospitalar.</p>
-            </div>
-            <div class="modelo-faq-box">
-                <h3 class="font-semibold" style="color:#1976A5">Quais regiões são atendidas?</h3>
-                <p class="text-[#5A6A7A]">Atendemos toda a cidade de São Paulo e região metropolitana. Consulte disponibilidade para sua localidade.</p>
-            </div>
-            <div class="modelo-faq-box">
-                <h3 class="font-semibold" style="color:#1976A5">Quais especialidades estão disponíveis em domicílio?</h3>
-                <p class="text-[#5A6A7A]">Oferecemos dentística, ortodontia, odontopediatria, implantodontia, endodontia e prótese, entre outros serviços. Consulte para casos específicos.</p>
-            </div>
-            <div class="modelo-faq-box">
-                <h3 class="font-semibold" style="color:#1976A5">Como agendar uma consulta?</h3>
-                <p class="text-[#5A6A7A]">O agendamento é feito exclusivamente pelo WhatsApp, clicando no botão disponível no site, ou se preferir, ligue para <span class='font-semibold'>(11) 99999-9999</span>.</p>
-            </div>
+    <!-- FAQ SEO -->
+    <section class="bg-[#E6F7FB] py-10">
+      <div class="max-w-3xl mx-auto px-4">
+        <h2 class="text-2xl font-bold modelo-title mb-6">Perguntas frequentes sobre dentista em casa e odontologia domiciliar</h2>
+        <div class="modelo-faq-box">
+          <h3 class="font-semibold mb-2">Como funciona o atendimento de dentista em casa?</h3>
+          <p>O atendimento odontológico domiciliar é realizado por dentistas especializados que levam todos os equipamentos necessários até a casa do paciente, proporcionando conforto, segurança e praticidade para quem tem dificuldade de locomoção ou prefere ser atendido no lar.</p>
         </div>
+        <div class="modelo-faq-box">
+          <h3 class="font-semibold mb-2">Quais especialidades odontológicas são oferecidas em domicílio?</h3>
+          <p>Oferecemos diversas especialidades, como prótese, implante, odontopediatria, endodontia, prevenção, limpeza, restauração e atendimento de urgência, tudo no conforto da sua casa.</p>
+        </div>
+        <div class="modelo-faq-box">
+          <h3 class="font-semibold mb-2">Quem pode se beneficiar do atendimento odontológico domiciliar?</h3>
+          <p>Idosos, pessoas com deficiência, pacientes acamados, oncológicos, gestantes, crianças e qualquer pessoa que busque comodidade e atendimento humanizado podem se beneficiar do serviço de dentista em casa.</p>
+        </div>
+      </div>
     </section>
     <!-- Sobre a Clínica -->
     <section id="sobre" class="py-16" style="background:#F5F8FA;">
@@ -371,13 +375,13 @@
         <p class="text-[#1A3A4F] text-lg text-center mb-10">Somos apaixonados por cuidar de pessoas. Conheça nossa equipe e o propósito de cada um:</p>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center">
-            <img src="/img/perfis/1.png" alt="Dentista especialista em atendimento domiciliar em São Paulo" class="w-24 h-24 rounded-full object-cover mb-4 border-4 border-[#E6F7FB] shadow">
+            <img src="/img/perfis/1.png" alt="Dentista especialista em atendimento odontológico domiciliar em São Paulo - Clínica Odontológica Sorriso em Casa" class="w-24 h-24 rounded-full object-cover mb-4 border-4 border-[#E6F7FB] shadow">
             <span class="text-[#1976A5] text-lg font-bold mb-2">Dr. Thomaz</span>
             <span class="text-[#5A6A7A] text-sm mb-2">CRO/SP: 144.749</span>
             <p class="text-[#5A6A7A] text-sm">Cirurgião Dentista especializado em Odontologia Hospitalar pelo Hospital Albert Einstein, com experiência em atendimento de pessoas com deficiência, idosos e pacientes oncológicos. Pós-graduado em Saúde Pública, CTBMF e Mestrando em Odontologia FHO.<br><br>A vontade de ajudar nasceu em 2017, ao cuidar de pessoas. Ajudar é o combustível que move minha carreira.</p>
           </div>
           <div class="bg-white rounded-2xl shadow-lg p-8 flex flex-col items-center text-center">
-            <img src="/img/perfis/3.png" alt="Dentista especialista em atendimento domiciliar em São Paulo" class="w-24 h-24 rounded-full object-cover mb-4 border-4 border-[#E6F7FB] shadow">
+            <img src="/img/perfis/3.png" alt="Dentista especialista em atendimento odontológico domiciliar em São Paulo - Clínica Odontológica Sorriso em Casa" class="w-24 h-24 rounded-full object-cover mb-4 border-4 border-[#E6F7FB] shadow">
             <span class="text-[#1976A5] text-lg font-bold mb-2">Dr. Cesar</span>
             <span class="text-[#5A6A7A] text-sm mb-2">CRO/SP: 123.003</span>
             <p class="text-[#5A6A7A] text-sm">Cirurgião Dentista especializado em Ortodontia pela Funorte, Mestre em Odontologia na área de Periodontia pela Universidade Guarulhos.<br><br>Cuidar e aliviar a dor do outro é algo que transcende o profissional, é missão de vida.</p>
