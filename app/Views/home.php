@@ -213,7 +213,7 @@
     <!-- Hero: O que fazemos -->
     <section class="relative border-b">
       <div id="hero-carousel" class="relative w-full h-[100vh] overflow-hidden">
-        <img src="/img/carrousel/11.png" alt="Dentista em casa realizando atendimento odontológico domiciliar em São Paulo para paciente especial" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-100 transition-opacity duration-700" />
+        <img src="/img/carrousel/11.png" alt="Dentista em casa realizando atendimento odontológico domiciliar em São Paulo para paciente especial" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-100 transition-opacity duration-700" fetchpriority="high" />
         <img src="/img/carrousel/12.png" alt="Odontologia domiciliar: atendimento odontológico especializado em casa em São Paulo" class="hero-slide absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-700" />
         <!-- Balão original, só desktop/tablet -->
         <div class="hidden sm:flex sm:absolute sm:left-0 sm:right-0 sm:bottom-[80px] justify-center z-10 p-4">
