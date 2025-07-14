@@ -3,23 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dentista em Casa em São Paulo | Odontologia Domiciliar | Clínica Odontológica Sorriso em Casa</title>
-    <meta name="description" content="Dentista em casa em São Paulo. Atendimento odontológico domiciliar, clínica odontológica especializada, odontologia para idosos, pessoas com necessidades especiais e toda a família. Agende sua consulta com a Sorriso em Casa!">
-    <meta name="keywords" content="dentista, odonto, odontologia, odontológico, dentista em casa, atendimento odontológico, atendimento domiciliar, clínica odontológica, São Paulo, prótese, implante, odontopediatria, endodontia, saúde bucal, atendimento especial, dentista para idosos, dentista para PCD">
+    <title>Dentista em Casa em São Paulo | Odontologia Domiciliar | Ofar Odontologia</title>
+    <meta name="description" content="Dentista em casa em São Paulo. Atendimento odontológico domiciliar, clínica odontológica especializada, odontologia para idosos, pessoas com necessidades especiais e toda a família. Agende sua consulta com a Ofar Odontologia!">
+    <meta name="keywords" content="dentista, odonto, odontologia, odontológico, dentista em casa, atendimento odontológico, atendimento domiciliar, clínica odontológica, São Paulo, prótese, implante, odontopediatria, endodontia, saúde bucal, atendimento especial, dentista para idosos, dentista para PCD, Ofar Odontologia">
     <meta name="robots" content="index, follow">
-    <meta name="author" content="Clínica Sorriso em Casa">
-    <meta property="og:title" content="Clínica Sorriso em Casa | Odontologia Domiciliar em São Paulo">
-    <meta property="og:description" content="Atendimento odontológico domiciliar humanizado em São Paulo. Equipe experiente, tecnologia portátil e foco em pacientes com necessidades especiais. Agende sua consulta!"><meta property="og:type" content="website">
-    <meta property="og:url" content="https://sorrisoemcasa.com.br/">
-    <meta property="og:image" content="https://odonto.wesleystoss.com.br/img/carrousel/11.png">
+    <meta name="author" content="Ofar Odontologia">
+    <meta property="og:title" content="Ofar Odontologia | Odontologia Domiciliar em São Paulo">
+    <meta property="og:description" content="Atendimento odontológico domiciliar humanizado em São Paulo. Equipe experiente, tecnologia portátil e foco em pacientes com necessidades especiais. Agende sua consulta!">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://ofarodontologia.com.br/">
+    <meta property="og:image" content="/img/carrousel/11.png">
     <meta property="og:locale" content="pt_BR">
-    <meta property="og:site_name" content="Clínica Sorriso em Casa">
+    <meta property="og:site_name" content="Ofar Odontologia">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Clínica Sorriso em Casa | Odontologia Domiciliar em São Paulo">
+    <meta name="twitter:title" content="Ofar Odontologia | Odontologia Domiciliar em São Paulo">
     <meta name="twitter:description" content="Atendimento odontológico domiciliar humanizado em São Paulo. Equipe experiente, tecnologia portátil e foco em pacientes com necessidades especiais. Agende sua consulta!">
-    <meta name="twitter:image" content="https://odonto.wesleystoss.com.br/img/carrousel/11.png">
-    <meta name="twitter:site" content="@sorrisoemcasa">
-    <meta name="twitter:creator" content="@sorrisoemcasa">
+    <meta name="twitter:image" content="/img/carrousel/11.png">
+    <meta name="twitter:site" content="@ofarodontologia">
+    <meta name="twitter:creator" content="@ofarodontologia">
     <link rel="icon" type="image/png" href="https://img.icons8.com/ios-filled/50/4F46E5/tooth.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
@@ -191,8 +192,8 @@
     <header class="bg-white shadow-sm w-full fixed top-0 left-0 z-20">
         <div class="max-w-6xl mx-auto flex items-center justify-between px-4 py-3">
             <div class="flex items-center gap-2">
-                <img src="https://img.icons8.com/ios-filled/50/4F46E5/tooth.png" alt="Logo OdontoDomiciliar" class="w-8 h-8">
-                <span class="font-bold text-xl text-blue-800">OdontoDomiciliar</span>
+                <img src="https://img.icons8.com/ios-filled/50/4F46E5/tooth.png" alt="Logo Ofar Odontologia" class="w-8 h-8">
+                <span class="font-bold text-xl text-blue-800">Ofar Odontologia</span>
             </div>
             <nav class="hidden md:flex gap-8 text-blue-900 font-semibold">
                 <a href="#especialidades" class="hover:text-blue-600 transition">Especialidades</a>
@@ -567,7 +568,7 @@
             <div>
                 <div class="flex items-center gap-2 mb-2">
                     <img src="https://img.icons8.com/ios-filled/32/ffffff/tooth.png" alt="Logo" class="w-7 h-7">
-                    <span class="font-bold text-lg text-white">OdontoDomiciliar</span>
+                    <span class="font-bold text-lg text-white">Ofar Odontologia</span>
                 </div>
                 <p class="text-blue-100 text-sm mb-2">Atendimento odontológico 100% domiciliar em São Paulo e região. Não possuímos clínica física.</p>
                 <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-full shadow text-sm mt-2">
@@ -599,7 +600,7 @@
                 <p class="text-blue-100 text-sm mt-2">Segunda a Sexta: 8h às 18h<br>Sábado: 8h às 12h</p>
             </div>
         </div>
-        <div class="mt-8 text-xs text-blue-100 text-center">&copy; <?php echo date('Y'); ?> OdontoDomiciliar. Todos os direitos reservados.</div>
+        <div class="mt-8 text-xs text-blue-100 text-center">&copy; <?php echo date('Y'); ?> Ofar Odontologia. Todos os direitos reservados.</div>
     </footer>
 </body>
 <script>
@@ -673,14 +674,14 @@ document.addEventListener('click', (e) => {
 {
   "@context": "https://schema.org",
   "@type": "Dentist",
-  "name": "Clínica Odontológica Sorriso em Casa",
-  "image": "https://odonto.wesleystoss.com.br/img/carrousel/11.png",
-  "@id": "https://odonto.wesleystoss.com.br/",
-  "url": "https://odonto.wesleystoss.com.br/",
+  "name": "Ofar Odontologia",
+  "image": "/img/carrousel/11.png",
+  "@id": "https://ofarodontologia.com.br/",
+  "url": "https://ofarodontologia.com.br/",
   "telephone": "+55 11 99999-9999",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Rua Exemplo, 123",
+    "streetAddress": "Rua Exemplo, 1234",
     "addressLocality": "São Paulo",
     "addressRegion": "SP",
     "postalCode": "01234-567",
