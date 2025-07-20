@@ -531,6 +531,7 @@
         <h2 class="text-2xl font-bold modelo-title mb-3">Fale com a gente</h2>
         <p class="text-[#1A3A4F] text-lg mb-4">Estamos prontos para te ouvir, tirar dúvidas e agendar seu atendimento. Conte conosco!</p>
         <div class="flex flex-col items-center gap-2">
+          <span class="text-[#1976A5] text-base font-medium mb-1">Para falar conosco sobre <b>emergências</b>, ligue para o telefone abaixo.</span>
           <span class="text-[#1976A5] text-lg font-semibold">Telefone: <a href="tel:+5511945749805" class="underline">(11) 9 4574-9805</a></span>
           <a href="https://wa.me/5511945749805?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="modelo-btn-green">WhatsApp</a>
         </div>
