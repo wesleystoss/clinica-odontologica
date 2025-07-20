@@ -641,11 +641,11 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   <div id="canais-opcoes" class="hidden flex-col mb-3 space-y-2 animate-fade-in">
     <a href="https://wa.me/5511945749805?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="flex items-center gap-2 px-4 py-2 bg-green-500 text-white rounded-full shadow hover:bg-green-600 transition">
       <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" class="w-5 h-5"><path d="M20.52 3.48A12.07 12.07 0 0 0 12 0C5.37 0 0 5.37 0 12a11.93 11.93 0 0 0 1.64 6.06L0 24l6.18-1.62A12.09 12.09 0 0 0 12 24c6.63 0 12-5.37 12-12 0-3.2-1.25-6.21-3.48-8.52zM12 22a10.13 10.13 0 0 1-5.19-1.43l-.37-.22-3.67.96.98-3.58-.24-.37A10.13 10.13 0 0 1 2 12c0-5.52 4.48-10 10-10s10 4.48 10 10-4.48 10-10 10zm5.47-7.14c-.3-.15-1.77-.87-2.04-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.35.22-.65.07-.3-.15-1.27-.47-2.42-1.5-.9-.8-1.5-1.77-1.67-2.07-.17-.3-.02-.46.13-.61.13-.13.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.02-.52-.07-.15-.67-1.62-.92-2.22-.24-.58-.48-.5-.67-.5-.17 0-.37-.02-.57-.02-.2 0-.52.07-.8.37-.27.3-1.05 1.02-1.05 2.5 0 1.48 1.08 2.92 1.23 3.12.15.2 2.13 3.25 5.17 4.42.72.25 1.28.4 1.72.51.72.18 1.38.15 1.9.09.58-.07 1.77-.72 2.02-1.42.25-.7.25-1.3.17-1.42-.07-.12-.27-.2-.57-.35z"/></svg>
-      WhatsApp
+      Agendamento
     </a>
     <a href="tel:11945749805" class="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-full shadow hover:bg-blue-700 transition">
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-5 h-5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.25 6.75c0-1.243 1.007-2.25 2.25-2.25h2.086c.414 0 .81.168 1.103.466l2.027 2.034a2.25 2.25 0 01.434 2.466l-.637 1.591a.75.75 0 00.217.83l2.457 2.457a.75.75 0 00.83.217l1.591-.637a2.25 2.25 0 012.466.434l2.034 2.027c.298.293.466.689.466 1.103v2.086a2.25 2.25 0 01-2.25 2.25h-.75C7.798 21 3 16.202 3 10.75v-.75z"/></svg>
-      Ligar
+     Emergência
     </a>
   </div>
   <button id="btn-canais" class="relative inline-flex items-center justify-center h-14 w-14 rounded-full bg-green-500 shadow-lg focus:outline-none group" aria-label="Abrir opções de contato">
