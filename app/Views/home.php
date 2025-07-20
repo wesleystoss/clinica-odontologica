@@ -21,7 +21,7 @@
     <meta name="twitter:image" content="/img/carrousel/11.png">
     <meta name="twitter:site" content="@Ofáodontologia">
     <meta name="twitter:creator" content="@Ofáodontologia">
-    <link rel="icon" type="image/png" href="https://img.icons8.com/ios-filled/50/4F46E5/tooth.png">
+    <link rel="icon" type="image/png" href="/img/ofa-logo.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
@@ -192,7 +192,7 @@
     <header class="bg-white shadow-sm w-full fixed top-0 left-0 z-20">
         <div class="max-w-6xl mx-auto flex items-center justify-between px-4 py-3">
             <div class="flex items-center gap-2">
-                <img src="/img/ofa-logo.png" alt="Logo Ofá Odontologia" class="w-[120px]">
+                <a href="#"><img src="/img/ofa-logo.png" alt="Logo Ofá Odontologia" class="w-[120px]"></a>
                 <!-- <span class="font-bold text-xl text-blue-800">Ofá Odontologia</span> -->
             </div>
             <nav class="hidden md:flex gap-8 text-blue-900 font-semibold">
