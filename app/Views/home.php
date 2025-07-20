@@ -3,24 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dentista em Casa em São Paulo | Odontologia Domiciliar | Ofar Odontologia</title>
-    <meta name="description" content="Dentista em casa em São Paulo. Atendimento odontológico domiciliar, clínica odontológica especializada, odontologia para idosos, pessoas com necessidades especiais e toda a família. Agende sua consulta com a Ofar Odontologia!">
-    <meta name="keywords" content="dentista, odonto, odontologia, odontológico, dentista em casa, atendimento odontológico, atendimento domiciliar, clínica odontológica, São Paulo, prótese, implante, odontopediatria, endodontia, saúde bucal, atendimento especial, dentista para idosos, dentista para PCD, Ofar Odontologia">
+    <title>Dentista em Casa em São Paulo | Odontologia Domiciliar | Ofá Odontologia</title>
+    <meta name="description" content="Dentista em casa em São Paulo. Atendimento odontológico domiciliar, clínica odontológica especializada, odontologia para idosos, pessoas com necessidades especiais e toda a família. Agende sua consulta com a Ofá Odontologia!">
+    <meta name="keywords" content="dentista, odonto, odontologia, odontológico, dentista em casa, atendimento odontológico, atendimento domiciliar, clínica odontológica, São Paulo, prótese, implante, odontopediatria, endodontia, saúde bucal, atendimento especial, dentista para idosos, dentista para PCD, Ofá Odontologia">
     <meta name="robots" content="index, follow">
-    <meta name="author" content="Ofar Odontologia">
-    <meta property="og:title" content="Ofar Odontologia | Odontologia Domiciliar em São Paulo">
+    <meta name="author" content="Ofá Odontologia">
+    <meta property="og:title" content="Ofá Odontologia | Odontologia Domiciliar em São Paulo">
     <meta property="og:description" content="Atendimento odontológico domiciliar humanizado em São Paulo. Equipe experiente, tecnologia portátil e foco em pacientes com necessidades especiais. Agende sua consulta!">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://ofarodontologia.com.br/">
+    <meta property="og:url" content="https://Ofáodontologia.com.br/">
     <meta property="og:image" content="/img/carrousel/11.png">
     <meta property="og:locale" content="pt_BR">
-    <meta property="og:site_name" content="Ofar Odontologia">
+    <meta property="og:site_name" content="Ofá Odontologia">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Ofar Odontologia | Odontologia Domiciliar em São Paulo">
+    <meta name="twitter:title" content="Ofá Odontologia | Odontologia Domiciliar em São Paulo">
     <meta name="twitter:description" content="Atendimento odontológico domiciliar humanizado em São Paulo. Equipe experiente, tecnologia portátil e foco em pacientes com necessidades especiais. Agende sua consulta!">
     <meta name="twitter:image" content="/img/carrousel/11.png">
-    <meta name="twitter:site" content="@ofarodontologia">
-    <meta name="twitter:creator" content="@ofarodontologia">
+    <meta name="twitter:site" content="@Ofáodontologia">
+    <meta name="twitter:creator" content="@Ofáodontologia">
     <link rel="icon" type="image/png" href="https://img.icons8.com/ios-filled/50/4F46E5/tooth.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
@@ -192,8 +192,8 @@
     <header class="bg-white shadow-sm w-full fixed top-0 left-0 z-20">
         <div class="max-w-6xl mx-auto flex items-center justify-between px-4 py-3">
             <div class="flex items-center gap-2">
-                <img src="https://img.icons8.com/ios-filled/50/4F46E5/tooth.png" alt="Logo Ofar Odontologia" class="w-8 h-8">
-                <span class="font-bold text-xl text-blue-800">Ofar Odontologia</span>
+                <img src="/img/ofa-logo.png" alt="Logo Ofá Odontologia" class="w-[120px]">
+                <!-- <span class="font-bold text-xl text-blue-800">Ofá Odontologia</span> -->
             </div>
             <nav class="hidden md:flex gap-8 text-blue-900 font-semibold">
                 <a href="#especialidades" class="hover:text-blue-600 transition">Especialidades</a>
@@ -201,7 +201,7 @@
                 <a href="#servicos" class="hover:text-blue-600 transition">Serviços</a>
                 <a href="#contato" class="hover:text-blue-600 transition">Contato</a>
             </nav>
-            <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-5 rounded-full shadow flex items-center gap-2 text-sm">
+            <a href="https://wa.me/5511945749805?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-5 rounded-full shadow flex items-center gap-2 text-sm">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12c0 5.385 4.365 9.75 9.75 9.75 1.7 0 3.3-.425 4.7-1.175l3.3.825a.75.75 0 00.925-.925l-.825-3.3A9.708 9.708 0 0021.75 12c0-5.385-4.365-9.75-9.75-9.75S2.25 6.615 2.25 12z" />
                 </svg>
@@ -220,7 +220,7 @@
           <div class="bg-white/85 rounded-xl px-6 py-4 text-center max-w-lg shadow-lg">
             <h1 class="text-2xl md:text-3xl font-bold text-[#1976A5] mb-2">Odontologia Domiciliar Humanizada em São Paulo</h1>
             <p class="text-gray-700 text-base md:text-lg mb-3">Cuidamos de pessoas e sorrisos, onde você estiver.</p>
-            <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="hero-btn mt-1">Agende seu atendimento</a>
+            <a href="https://wa.me/5511945749805?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="hero-btn mt-1">Agende seu atendimento</a>
           </div>
         </div>
       </div>
@@ -229,7 +229,7 @@
         <div class="bg-white/85 rounded-xl px-4 py-3 text-center w-full max-w-lg shadow-lg">
           <h1 class="text-xl font-bold text-[#1976A5] mb-2">Odontologia Domiciliar Humanizada em São Paulo</h1>
           <p class="text-gray-700 text-base mb-3">Cuidamos de pessoas e sorrisos, onde você estiver.</p>
-          <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="hero-btn mt-1">Agende seu atendimento</a>
+          <a href="https://wa.me/5511945749805?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="hero-btn mt-1">Agende seu atendimento</a>
         </div>
       </div>
       <script>
@@ -531,8 +531,8 @@
         <h2 class="text-2xl font-bold modelo-title mb-3">Fale com a gente</h2>
         <p class="text-[#1A3A4F] text-lg mb-4">Estamos prontos para te ouvir, tirar dúvidas e agendar seu atendimento. Conte conosco!</p>
         <div class="flex flex-col items-center gap-2">
-          <span class="text-[#1976A5] text-lg font-semibold">Telefone: (11) (A INFORMAR)</span>
-          <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="modelo-btn-green">WhatsApp</a>
+          <span class="text-[#1976A5] text-lg font-semibold">Telefone: <a href="tel:+5511945749805" class="underline">(11) 9 4574-9805</a></span>
+          <a href="https://wa.me/5511945749805?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="modelo-btn-green">WhatsApp</a>
         </div>
       </div>
     </section>
@@ -567,18 +567,18 @@
         <div class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-8 px-4">
             <div>
                 <div class="flex items-center gap-2 mb-2">
-                    <img src="https://img.icons8.com/ios-filled/32/ffffff/tooth.png" alt="Logo" class="w-7 h-7">
-                    <span class="font-bold text-lg text-white">Ofar Odontologia</span>
+                    <img src="/img/ofa-logo-footer.jpeg" alt="Logo" class="w-[150px]">
+                    <!-- <span class="font-bold text-lg text-white">Ofá Odontologia</span> -->
                 </div>
-                <p class="text-blue-100 text-sm mb-2">Atendimento odontológico 100% domiciliar em São Paulo e região. Não possuímos clínica física.</p>
-                <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-full shadow text-sm mt-2">
+                <p class="text-blue-100 text-sm mb-2">Atendimento odontológico 100% domiciliar em São Paulo e região.</p>
+                <a href="https://wa.me/5511945749805?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-full shadow text-sm mt-2">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12c0 5.385 4.365 9.75 9.75 9.75 1.7 0 3.3-.425 4.7-1.175l3.3.825a.75.75 0 00.925-.925l-.825-3.3A9.708 9.708 0 0021.75 12c0-5.385-4.365-9.75-9.75-9.75S2.25 6.615 2.25 12z" />
                     </svg>
                     WhatsApp
                 </a>
                 <div class="mt-2">
-                    <span class="text-blue-100 text-sm">Telefone: <a href="tel:+5511999999999" class="underline hover:text-white">(11) 99999-9999</a></span>
+                    <span class="text-blue-100 text-sm">Telefone: <a href="tel:+5511945749805" class="underline hover:text-white">(11) 94574-9805</a></span>
                 </div>
             </div>
             <div>
@@ -593,14 +593,14 @@
             </div>
             <div>
                 <span class="font-semibold text-white">Endereço</span>
-                <p class="text-blue-100 text-sm mt-2">Atendimento em toda São Paulo e região metropolitana</p>
+                <p class="text-blue-100 text-sm mt-2">Avenida Marq de Sao Vicente, 1619, Conj 705<br>Várzea da Barra Funda<br>São Paulo, SP<br>CEP: 01.139-003</p>
             </div>
             <div>
                 <span class="font-semibold text-white">Atendimento</span>
                 <p class="text-blue-100 text-sm mt-2">Segunda a Sexta: 8h às 18h<br>Sábado: 8h às 12h</p>
             </div>
         </div>
-        <div class="mt-8 text-xs text-blue-100 text-center">&copy; <?php echo date('Y'); ?> Ofar Odontologia. Todos os direitos reservados.</div>
+        <div class="mt-8 text-xs text-blue-100 text-center">&copy; <?php echo date('Y'); ?> Ofá Odontologia. Todos os direitos reservados.</div>
     </footer>
 </body>
 <script>
@@ -638,11 +638,11 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 <!-- Menu de canais flutuante -->
 <div id="menu-canais" class="fixed z-50 bottom-6 right-6 flex flex-col items-end">
   <div id="canais-opcoes" class="hidden flex-col mb-3 space-y-2 animate-fade-in">
-    <a href="https://wa.me/5511999999999?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="flex items-center gap-2 px-4 py-2 bg-green-500 text-white rounded-full shadow hover:bg-green-600 transition">
+    <a href="https://wa.me/5511945749805?text=Olá!%20Quero%20agendar%20um%20atendimento%20odontológico%20domiciliar." target="_blank" class="flex items-center gap-2 px-4 py-2 bg-green-500 text-white rounded-full shadow hover:bg-green-600 transition">
       <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" class="w-5 h-5"><path d="M20.52 3.48A12.07 12.07 0 0 0 12 0C5.37 0 0 5.37 0 12a11.93 11.93 0 0 0 1.64 6.06L0 24l6.18-1.62A12.09 12.09 0 0 0 12 24c6.63 0 12-5.37 12-12 0-3.2-1.25-6.21-3.48-8.52zM12 22a10.13 10.13 0 0 1-5.19-1.43l-.37-.22-3.67.96.98-3.58-.24-.37A10.13 10.13 0 0 1 2 12c0-5.52 4.48-10 10-10s10 4.48 10 10-4.48 10-10 10zm5.47-7.14c-.3-.15-1.77-.87-2.04-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.35.22-.65.07-.3-.15-1.27-.47-2.42-1.5-.9-.8-1.5-1.77-1.67-2.07-.17-.3-.02-.46.13-.61.13-.13.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.02-.52-.07-.15-.67-1.62-.92-2.22-.24-.58-.48-.5-.67-.5-.17 0-.37-.02-.57-.02-.2 0-.52.07-.8.37-.27.3-1.05 1.02-1.05 2.5 0 1.48 1.08 2.92 1.23 3.12.15.2 2.13 3.25 5.17 4.42.72.25 1.28.4 1.72.51.72.18 1.38.15 1.9.09.58-.07 1.77-.72 2.02-1.42.25-.7.25-1.3.17-1.42-.07-.12-.27-.2-.57-.35z"/></svg>
       WhatsApp
     </a>
-    <a href="tel:11999999999" class="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-full shadow hover:bg-blue-700 transition">
+    <a href="tel:11945749805" class="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-full shadow hover:bg-blue-700 transition">
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-5 h-5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.25 6.75c0-1.243 1.007-2.25 2.25-2.25h2.086c.414 0 .81.168 1.103.466l2.027 2.034a2.25 2.25 0 01.434 2.466l-.637 1.591a.75.75 0 00.217.83l2.457 2.457a.75.75 0 00.83.217l1.591-.637a2.25 2.25 0 012.466.434l2.034 2.027c.298.293.466.689.466 1.103v2.086a2.25 2.25 0 01-2.25 2.25h-.75C7.798 21 3 16.202 3 10.75v-.75z"/></svg>
       Ligar
     </a>
@@ -674,10 +674,10 @@ document.addEventListener('click', (e) => {
 {
   "@context": "https://schema.org",
   "@type": "Dentist",
-  "name": "Ofar Odontologia",
+  "name": "Ofá Odontologia",
   "image": "/img/carrousel/11.png",
-  "@id": "https://ofarodontologia.com.br/",
-  "url": "https://ofarodontologia.com.br/",
+  "@id": "https://Ofáodontologia.com.br/",
+  "url": "https://Ofáodontologia.com.br/",
   "telephone": "+55 11 99999-9999",
   "address": {
     "@type": "PostalAddress",
